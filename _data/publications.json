@@ -438,7 +438,7 @@
         "pages": "119--142",
         "doi": "10.1615/int.j.uncertaintyquantification.2021032984",
         "url": "https://doi.org/10.1615%2Fint.j.uncertaintyquantification.2021032984",
-        "arxiv": "",
+        "arxiv": "1911.11965",
         "image": "/assets/images/publications/10.1615_int.j.uncertaintyquantification.2021032984.png"
     },
     {
@@ -451,7 +451,7 @@
         "pages": "C203-C234",
         "doi": "10.1137/20M1344512",
         "url": "https://doi.org/10.1137/20M1344512",
-        "arxiv": "",
+        "arxiv": "2006.05373",
         "image": "/assets/images/publications/10.1137_20m1344512.png"
     },
     {
@@ -464,7 +464,7 @@
         "pages": "113769",
         "doi": "10.1016/j.cma.2021.113769",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.113769",
-        "arxiv": "",
+        "arxiv": "2006.11042",
         "image": "/assets/images/publications/10.1016_j.cma.2021.113769.png"
     },
     {
@@ -477,7 +477,7 @@
         "pages": "114093",
         "doi": "10.1016/j.cma.2021.114093",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.114093",
-        "arxiv": "",
+        "arxiv": "2012.00280",
         "image": "/assets/images/publications/10.1016_j.cma.2021.114093.png"
     },
     {
@@ -503,7 +503,7 @@
         "pages": "107059",
         "doi": "10.1016/j.cpc.2019.107059",
         "url": "https://doi.org/10.1016%2Fj.cpc.2019.107059",
-        "arxiv": "",
+        "arxiv": "1908.00891",
         "image": "/assets/images/publications/10.1016_j.cpc.2019.107059.png"
     },
     {
@@ -516,7 +516,7 @@
         "pages": "109522",
         "doi": "10.1016/j.jcp.2020.109522",
         "url": "https://doi.org/10.1016%2Fj.jcp.2020.109522",
-        "arxiv": "",
+        "arxiv": "1912.11487",
         "image": "/assets/images/publications/10.1016_j.jcp.2020.109522.png"
     },
     {
@@ -529,7 +529,7 @@
         "pages": "113267",
         "doi": "10.1016/j.cma.2020.113267",
         "url": "https://doi.org/10.1016%2Fj.cma.2020.113267",
-        "arxiv": "",
+        "arxiv": "1911.06792",
         "image": "/assets/images/publications/10.1016_j.cma.2020.113267.png"
     },
     {
@@ -542,7 +542,7 @@
         "pages": "103343",
         "doi": "10.1016/j.finel.2019.103343",
         "url": "https://doi.org/10.1016%2Fj.finel.2019.103343",
-        "arxiv": "",
+        "arxiv": "1811.12372",
         "image": "/assets/images/publications/10.1016_j.finel.2019.103343.png"
     },
     {
@@ -555,7 +555,7 @@
         "pages": "C436-C468",
         "doi": "10.1137/20M1328786",
         "url": "https://doi.org/10.1137/20M1328786",
-        "arxiv": "",
+        "arxiv": "1907.03709",
         "image": "/assets/images/publications/10.1137_20m1328786.png"
     },
     {
@@ -568,7 +568,7 @@
         "pages": "93--100",
         "doi": "10.1016/j.aml.2018.07.033",
         "url": "https://doi.org/10.1016%2Fj.aml.2018.07.033",
-        "arxiv": ""
+        "arxiv": "2001.07289"
     },
     {
         "id": "10.1016_j.cpc.2018.11.021",
@@ -580,7 +580,7 @@
         "pages": "154--167",
         "doi": "10.1016/j.cpc.2018.11.021",
         "url": "https://doi.org/10.1016%2Fj.cpc.2018.11.021",
-        "arxiv": ""
+        "arxiv": "1707.09783"
     },
     {
         "id": "10.1016_j.finel.2019.04.003",
@@ -592,7 +592,7 @@
         "pages": "16--31",
         "doi": "10.1016/j.finel.2019.04.003",
         "url": "https://doi.org/10.1016%2Fj.finel.2019.04.003",
-        "arxiv": ""
+        "arxiv": "1901.08783"
     },
     {
         "id": "10.1016_j.cma.2019.05.042",
@@ -616,7 +616,7 @@
         "pages": "74--91",
         "doi": "10.1016/j.advengsoft.2019.03.006",
         "url": "https://doi.org/10.1016%2Fj.advengsoft.2019.03.006",
-        "arxiv": ""
+        "arxiv": "1810.10314"
     },
     {
         "id": "10.1016_j.cma.2019.112583",
@@ -628,7 +628,7 @@
         "pages": "112583",
         "doi": "10.1016/j.cma.2019.112583",
         "url": "https://doi.org/10.1016%2Fj.cma.2019.112583",
-        "arxiv": ""
+        "arxiv": "1902.01168"
     },
     {
         "id": "10.1002_nme.6085",
@@ -640,7 +640,7 @@
         "pages": "1098--1125",
         "doi": "10.1002/nme.6085",
         "url": "https://doi.org/10.1002%2Fnme.6085",
-        "arxiv": ""
+        "arxiv": "1810.03506"
     },
     {
         "id": "10.1016_j.cma.2018.03.022",
@@ -652,7 +652,7 @@
         "pages": "533--553",
         "doi": "10.1016/j.cma.2018.03.022",
         "url": "https://doi.org/10.1016%2Fj.cma.2018.03.022",
-        "arxiv": ""
+        "arxiv": "1709.09122"
     },
     {
         "id": "10.1016_j.cam.2017.09.033",
@@ -664,7 +664,7 @@
         "pages": "794--806",
         "doi": "10.1016/j.cam.2017.09.033",
         "url": "https://doi.org/10.1016%2Fj.cam.2017.09.033",
-        "arxiv": ""
+        "arxiv": "1703.08466"
     },
     {
         "id": "10.1007_s10915-018-0870-z",
@@ -688,7 +688,7 @@
         "pages": "740--759",
         "doi": "10.1016/j.cam.2017.09.034",
         "url": "https://doi.org/10.1016%2Fj.cam.2017.09.034",
-        "arxiv": ""
+        "arxiv": "1703.06323"
     },
     {
         "id": "10.1016_j.cam.2018.07.001",
@@ -712,7 +712,7 @@
         "pages": "B1541-B1576",
         "doi": "10.1137/18M1185624",
         "url": "https://doi.org/10.1137/18M1185624",
-        "arxiv": ""
+        "arxiv": "1805.01727"
     },
     {
         "id": "10.1016_j.addma.2017.09.002",
@@ -736,7 +736,7 @@
         "pages": "195--271",
         "doi": "10.1007/s11831-017-9244-1",
         "url": "https://doi.org/10.1007%2Fs11831-017-9244-1",
-        "arxiv": ""
+        "arxiv": "1708.01773"
     },
     {
         "id": "10.1016_j.cma.2016.09.035",
@@ -748,7 +748,7 @@
         "pages": "133--158",
         "doi": "10.1016/j.cma.2016.09.035",
         "url": "https://doi.org/10.1016%2Fj.cma.2016.09.035",
-        "arxiv": ""
+        "arxiv": "1606.08743"
     },
     {
         "id": "10.1137_16m1074266",
@@ -760,7 +760,7 @@
         "pages": "C194-C213",
         "doi": "10.1137/16M1074266",
         "url": "https://doi.org/10.1137/16M1074266",
-        "arxiv": ""
+        "arxiv": "1701.03477"
     },
     {
         "id": "10.1016_j.cma.2016.09.040",
@@ -796,7 +796,7 @@
         "pages": "386--413",
         "doi": "10.1007/s10915-016-0304-8",
         "url": "https://doi.org/10.1007%2Fs10915-016-0304-8",
-        "arxiv": ""
+        "arxiv": "1606.04283"
     },
     {
         "id": "10.1007_s00466-016-1332-9",
