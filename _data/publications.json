@@ -160,11 +160,11 @@
         "title": "A discrete trace theory for non-conforming polytopal hybrid discretisation methods",
         "authors": "Santiago Badia, Jerome Droniou, Jai Tushar",
         "year": "2024",
-        "journal": "arXiv",
+        "journal": "Foundations of Computational Mathematics",
         "volume": "",
         "pages": "",
-        "doi": "",
-        "url": "https://arxiv.org/abs/2409.15863",
+        "doi": "10.1007/s10208-025-09734-6",
+        "url": "https://doi.org/10.1007/s10208-025-09734-6",
         "arxiv": "2409.15863"
     },
     {
@@ -172,11 +172,11 @@
         "title": "Adaptive Finite Element Interpolated Neural Networks",
         "authors": "Santiago Badia, Wei Li, Alberto F. Martín",
         "year": "2024",
-        "journal": "arXiv",
-        "volume": "",
-        "pages": "",
-        "doi": "",
-        "url": "https://arxiv.org/abs/2403.14054",
+        "journal": "Computer Methods in Applied Mechanics and Engineering",
+        "volume": "437",
+        "pages": "117806",
+        "doi": "10.1016/j.cma.2025.117806",
+        "url": "https://doi.org/10.1016/j.cma.2025.117806",
         "arxiv": "2403.14054"
     },
     {
