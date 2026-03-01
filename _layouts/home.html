@@ -26,38 +26,92 @@ layout: default
 <hr class="section-divider">
 
 <div class="publications-section">
-  <h2>Publications</h2>
-  <div class="publications-grid">
-    {% for pub in site.data.publications %}
-    <div class="pub-row">
-      <div class="pub-thumb">
-        <div class="thumb-box">
-          {% if pub.image %}
-            <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
-          {% else %}
-            <span class="placeholder-text">PDF</span>
-          {% endif %}
+  
+  {% assign submitted_pubs = "" | split: "," %}
+  {% assign published_pubs = "" | split: "," %}
+  
+  {% for pub in site.data.publications %}
+    {% if pub.journal == "arXiv" or pub.journal == "" %}
+      {% assign submitted_pubs = submitted_pubs | push: pub %}
+    {% else %}
+      {% assign published_pubs = published_pubs | push: pub %}
+    {% endif %}
+  {% endfor %}
+
+  {% if submitted_pubs.size > 0 %}
+    <h2>Submitted</h2>
+    <div class="publications-grid">
+      {% for pub in submitted_pubs %}
+      <div class="pub-row">
+        <div class="pub-thumb">
+          <div class="thumb-box">
+            {% if pub.image %}
+              <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+            {% else %}
+              <span class="placeholder-text">PDF</span>
+            {% endif %}
+          </div>
+        </div>
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="{{ pub.url | default: '#' }}">{{ pub.title }}</a>
+          </div>
+          <div class="pub-authors">{{ pub.authors }}</div>
+          <div class="pub-venue">
+            <em>{{ pub.journal }}</em>, {{ pub.year }}
+          </div>
+          <div class="pub-links">
+            {% if pub.doi and pub.doi != "" %}
+              <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+            {% endif %}
+            {% if pub.arxiv and pub.arxiv != "" %}
+              {% if pub.doi and pub.doi != "" %} / {% endif %}
+              <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>
+            {% endif %}
+          </div>
         </div>
       </div>
-      <div class="pub-content">
-        <div class="pub-title">
-          <a href="{{ pub.url | default: '#' }}">{{ pub.title }}</a>
-        </div>
-        <div class="pub-authors">{{ pub.authors }}</div>
-        <div class="pub-venue">
-          <em>{{ pub.journal }}</em>, {{ pub.year }}
-        </div>
-        <div class="pub-links">
-          {% if pub.doi and pub.doi != "" %}
-            <a href="https://doi.org/{{ pub.doi }}">DOI</a>
-          {% endif %}
-          {% if pub.arxiv and pub.arxiv != "" %}
-            {% if pub.doi and pub.doi != "" %} / {% endif %}
-            <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>
-          {% endif %}
-        </div>
-      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
-  </div>
+  {% endif %}
+
+  {% assign pubs_by_year = published_pubs | group_by: "year" %}
+  
+  {% for year_group in pubs_by_year %}
+    <h2>{{ year_group.name }}</h2>
+    <div class="publications-grid">
+      {% for pub in year_group.items %}
+      <div class="pub-row">
+        <div class="pub-thumb">
+          <div class="thumb-box">
+            {% if pub.image %}
+              <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+            {% else %}
+              <span class="placeholder-text">PDF</span>
+            {% endif %}
+          </div>
+        </div>
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="{{ pub.url | default: '#' }}">{{ pub.title }}</a>
+          </div>
+          <div class="pub-authors">{{ pub.authors }}</div>
+          <div class="pub-venue">
+            <em>{{ pub.journal }}</em>, {{ pub.year }}
+          </div>
+          <div class="pub-links">
+            {% if pub.doi and pub.doi != "" %}
+              <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+            {% endif %}
+            {% if pub.arxiv and pub.arxiv != "" %}
+              {% if pub.doi and pub.doi != "" %} / {% endif %}
+              <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+
 </div>
