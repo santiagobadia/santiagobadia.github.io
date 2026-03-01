@@ -264,7 +264,7 @@
         "arxiv": "2203.04629"
     },
     {
-        "title": "GridapSolvers.jl: Scalable multiphysics finite element\nsolvers in Julia",
+        "title": "GridapSolvers.jl: Scalable multiphysics finite element solvers in Julia",
         "authors": "Jordi Manyer, Alberto F. Martín, Santiago Badia",
         "year": "2024",
         "journal": "Journal of Open Source Software",
@@ -769,7 +769,7 @@
     },
     {
         "id": "10.1016_j.cma.2016.06.017",
-        "title": "Shock capturing techniques for lessmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si64.gif\" display=\"inline\" overflow=\"scroll\"greaterlessmml:migreaterhless/mml:migreaterlessmml:migreaterpless/mml:migreaterless/mml:mathgreater-adaptive finite elements",
+        "title": "Shock capturing techniques for hp-adaptive finite elements",
         "authors": "Alba Hierro, Santiago Badia, Pavel Kus",
         "year": "2016",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
