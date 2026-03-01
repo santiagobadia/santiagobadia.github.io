@@ -3,7 +3,7 @@ email: santiago.badia@monash.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Distinguished Professor of Computational Mathematics at Monash University.
   Expert in finite element methods, large-scale parallel solvers, and open-source scientific software.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/webpage" # the subpath of your site, e.g. /blog
 url: "https://santiagobadia.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  santiagobadia
