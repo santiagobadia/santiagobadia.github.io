@@ -297,7 +297,7 @@
         "pages": "609-642",
         "doi": "10.1142/S0218202523500148",
         "url": "https://doi.org/10.1142/S0218202523500148",
-        "arxiv": ""
+        "arxiv": "2207.10975"
     },
     {
         "id": "10.1016_j.camwa.2023.01.032",
@@ -394,18 +394,6 @@
         "doi": "10.1016/j.camwa.2022.09.027",
         "url": "https://doi.org/10.1016%2Fj.camwa.2022.09.027",
         "arxiv": "2201.06632"
-    },
-    {
-        "id": "2207.10975",
-        "title": "Bound-preserving finite element approximations of the Keller-Segel equations",
-        "authors": "Santiago Badia, Jesús Bonilla, Juan Vicente Gutiérrez-Santacreu",
-        "year": "2022",
-        "journal": "arXiv",
-        "volume": "",
-        "pages": "",
-        "doi": "",
-        "url": "https://arxiv.org/abs/2207.10975",
-        "arxiv": "2207.10975"
     },
     {
         "id": "10.1615_int.j.uncertaintyquantification.2021032984",
