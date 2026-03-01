@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<div class="profile-container">
+  <div class="profile-header">
+    <div class="profile-pic-container">
+      <img src="{{ site.profile.image | relative_url }}" alt="{{ site.profile.name }}" class="profile-pic">
+    </div>
+    <div class="profile-info">
+      <h1>{{ site.profile.name }}</h1>
+      <p class="position"><strong>{{ site.profile.position }}</strong></p>
+      <p class="institution">{{ site.profile.institution }}</p>
+      <div class="bio">
+        {{ content }}
+      </div>
+      <div class="social-links">
+        <a href="mailto:{{ site.email }}">Email</a> /
+        <a href="https://github.com/{{ site.github_username }}">GitHub</a> /
+        <a href="https://scholar.google.com/citations?user=vj2m6eMAAAAJ">Google Scholar</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<div class="publications-section">
+  <h2>Publications</h2>
+  <div class="publications-grid">
+    {% for pub in site.data.publications %}
+    <div class="pub-row">
+      <div class="pub-thumb">
+        <div class="thumb-box">
+          {% if pub.image %}
+            <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+          {% else %}
+            <span class="placeholder-text">PDF</span>
+          {% endif %}
+        </div>
+      </div>
+      <div class="pub-content">
+        <div class="pub-title">
+          <a href="{{ pub.url | default: '#' }}">{{ pub.title }}</a>
+        </div>
+        <div class="pub-authors">{{ pub.authors }}</div>
+        <div class="pub-venue">
+          <em>{{ pub.journal }}</em>, {{ pub.year }}
+        </div>
+        <div class="pub-links">
+          {% if pub.doi and pub.doi != "" %}
+            <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+          {% endif %}
+          {% if pub.arxiv and pub.arxiv != "" %}
+            {% if pub.doi and pub.doi != "" %} / {% endif %}
+            <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

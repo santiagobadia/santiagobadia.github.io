@@ -1,0 +1,27 @@
+title: Santiago Badia
+email: santiago.badia@monash.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Distinguished Professor of Computational Mathematics at Monash University.
+  Expert in finite element methods, large-scale parallel solvers, and open-source scientific software.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://santiagobadia.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  santiagobadia
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Minimal Light aesthetic settings
+header_pages:
+  - index.md
+
+# Custom data
+profile:
+  name: Santiago Badia
+  position: Distinguished Professor of Computational Mathematics
+  institution: Monash University
+  location: Melbourne, Australia
+  image: /assets/images/profile.jpg
+  bio_file: bio.md
