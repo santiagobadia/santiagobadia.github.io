@@ -102,8 +102,7 @@ a {
 }
 
 .pub-row {
-  display: grid;
-  grid-template-columns: 180px 1fr;
+  display: flex;
   gap: 30px;
   margin-bottom: 40px;
   transition: all 0.2s ease-in-out;
@@ -114,12 +113,15 @@ a {
   }
   
   @media (max-width: 600px) {
-    grid-template-columns: 1fr;
+    flex-direction: column;
     gap: 15px;
   }
 }
 
 .pub-thumb {
+  width: 180px;
+  flex-shrink: 0;
+  
   .thumb-box {
     width: 100%;
     aspect-ratio: 4 / 3;

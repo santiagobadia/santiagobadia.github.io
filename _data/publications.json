@@ -9,7 +9,8 @@
         "pages": "118610",
         "doi": "10.1016/j.cma.2025.118610",
         "url": "https://doi.org/10.1016/j.cma.2025.118610",
-        "arxiv": "2508.15320"
+        "arxiv": "2508.15320",
+        "image": "/assets/images/publications/10.1016_j.cma.2025.118610.png"
     },
     {
         "title": "GridapROMs.jl: Efficient reduced order modelling in the Julia programming language",
@@ -21,7 +22,8 @@
         "doi": "10.1016/j.cpc.2025.109985",
         "url": "https://doi.org/10.1016/j.cpc.2025.109985",
         "id": "10.1016_j.cpc.2025.109985",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cpc.2025.109985.png"
     },
     {
         "title": "A tensor-train reduced basis solver for parameterized partial differential equations on Cartesian grids",
@@ -33,7 +35,8 @@
         "doi": "10.1016/j.cam.2025.116790",
         "url": "https://doi.org/10.1016/j.cam.2025.116790",
         "id": "10.1016_j.cam.2025.116790",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cam.2025.116790.png"
     },
     {
         "id": "2506.11956",
@@ -81,7 +84,8 @@
         "pages": "113937",
         "doi": "10.1016/j.jcp.2025.113937",
         "url": "https://doi.org/10.1016/j.jcp.2025.113937",
-        "arxiv": "2411.08064"
+        "arxiv": "2411.08064",
+        "image": "/assets/images/publications/10.1016_j.jcp.2025.113937.png"
     },
     {
         "id": "10.1016_j.jcp.2025.114547",
@@ -93,7 +97,8 @@
         "pages": "117889",
         "doi": "10.1016/j.cma.2025.117889",
         "url": "https://doi.org/10.1016/j.cma.2025.117889",
-        "arxiv": "2411.04591"
+        "arxiv": "2411.04591",
+        "image": "/assets/images/publications/10.1016_j.jcp.2025.114547.png"
     },
     {
         "id": "10.1016_j.cpc.2024.109479",
@@ -105,7 +110,8 @@
         "pages": "109479",
         "doi": "10.1016/j.cpc.2024.109479",
         "url": "https://doi.org/10.1016/j.cpc.2024.109479",
-        "arxiv": "2410.13023"
+        "arxiv": "2410.13023",
+        "image": "/assets/images/publications/10.1016_j.cpc.2024.109479.png"
     },
     {
         "id": "10.1007_s00158-024-03927-3",
@@ -129,7 +135,8 @@
         "pages": "",
         "doi": "10.1002/nme.70004",
         "url": "https://doi.org/10.1002/nme.70004",
-        "arxiv": "2303.13672"
+        "arxiv": "2303.13672",
+        "image": "/assets/images/publications/10.1002_nme.70004.png"
     },
     {
         "title": "A velocity-vorticity-pressure formulation for the steady Navier–Stokes–Brinkman–Forchheimer problem",
@@ -141,7 +148,8 @@
         "doi": "10.1016/j.cma.2025.118343",
         "url": "https://doi.org/10.1016/j.cma.2025.118343",
         "id": "10.1016_j.cma.2025.118343",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cma.2025.118343.png"
     },
     {
         "title": "Level-set topology optimisation with unfitted finite elements and automatic shape differentiation",
@@ -153,7 +161,8 @@
         "doi": "10.1016/j.cma.2025.118203",
         "url": "https://doi.org/10.1016/j.cma.2025.118203",
         "id": "10.1016_j.cma.2025.118203",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cma.2025.118203.png"
     },
     {
         "id": "2409.15863",
@@ -165,7 +174,8 @@
         "pages": "",
         "doi": "10.1007/s10208-025-09734-6",
         "url": "https://doi.org/10.1007/s10208-025-09734-6",
-        "arxiv": "2409.15863"
+        "arxiv": "2409.15863",
+        "image": "/assets/images/publications/2409.15863.png"
     },
     {
         "id": "2403.14054",
@@ -177,7 +187,8 @@
         "pages": "117806",
         "doi": "10.1016/j.cma.2025.117806",
         "url": "https://doi.org/10.1016/j.cma.2025.117806",
-        "arxiv": "2403.14054"
+        "arxiv": "2403.14054",
+        "image": "/assets/images/publications/2403.14054.png"
     },
     {
         "id": "10.1016_j.cma.2024.117091",
@@ -189,7 +200,8 @@
         "pages": "117091",
         "doi": "10.1016/j.cma.2024.117091",
         "url": "https://doi.org/10.1016/j.cma.2024.117091",
-        "arxiv": "2401.12649"
+        "arxiv": "2401.12649",
+        "image": "/assets/images/publications/10.1016_j.cma.2024.117091.png"
     },
     {
         "id": "10.1016_j.camwa.2024.02.041",
@@ -201,7 +213,8 @@
         "pages": "1-21",
         "doi": "10.1016/j.camwa.2024.02.041",
         "url": "https://doi.org/10.1016/j.camwa.2024.02.041",
-        "arxiv": "2303.11617"
+        "arxiv": "2303.11617",
+        "image": "/assets/images/publications/10.1016_j.camwa.2024.02.041.png"
     },
     {
         "id": "10.1016_j.jcp.2024.113127",
@@ -213,7 +226,8 @@
         "pages": "113127",
         "doi": "10.1016/j.jcp.2024.113127",
         "url": "https://doi.org/10.1016/j.jcp.2024.113127",
-        "arxiv": "2311.14363"
+        "arxiv": "2311.14363",
+        "image": "/assets/images/publications/10.1016_j.jcp.2024.113127.png"
     },
     {
         "id": "10.1016_j.cam.2024.115767",
@@ -225,7 +239,8 @@
         "pages": "115767",
         "doi": "10.1016/j.cam.2024.115767",
         "url": "https://doi.org/10.1016/j.cam.2024.115767",
-        "arxiv": "2307.10605"
+        "arxiv": "2307.10605",
+        "image": "/assets/images/publications/10.1016_j.cam.2024.115767.png"
     },
     {
         "id": "10.1016_j.cma.2023.116505",
@@ -237,7 +252,8 @@
         "pages": "116505",
         "doi": "10.1016/j.cma.2023.116505",
         "url": "https://doi.org/10.1016/j.cma.2023.116505",
-        "arxiv": "2306.06304"
+        "arxiv": "2306.06304",
+        "image": "/assets/images/publications/10.1016_j.cma.2023.116505.png"
     },
     {
         "id": "10.1016_j.camwa.2023.12.038",
@@ -249,7 +265,8 @@
         "pages": "173-194",
         "doi": "10.1016/j.camwa.2023.12.038",
         "url": "https://doi.org/10.1016/j.camwa.2023.12.038",
-        "arxiv": "2306.11213"
+        "arxiv": "2306.11213",
+        "image": "/assets/images/publications/10.1016_j.camwa.2023.12.038.png"
     },
     {
         "id": "10.1016_j.camwa.2024.04.016",
@@ -261,7 +278,8 @@
         "pages": "150-162",
         "doi": "10.1016/j.camwa.2024.04.016",
         "url": "https://doi.org/10.1016/j.camwa.2024.04.016",
-        "arxiv": "2203.04629"
+        "arxiv": "2203.04629",
+        "image": "/assets/images/publications/10.1016_j.camwa.2024.04.016.png"
     },
     {
         "title": "GridapSolvers.jl: Scalable multiphysics finite element solvers in Julia",
@@ -297,7 +315,8 @@
         "pages": "609-642",
         "doi": "10.1142/S0218202523500148",
         "url": "https://doi.org/10.1142/S0218202523500148",
-        "arxiv": "2207.10975"
+        "arxiv": "2207.10975",
+        "image": "/assets/images/publications/10.1142_s0218202523500148.png"
     },
     {
         "id": "10.1016_j.camwa.2023.01.032",
@@ -309,7 +328,8 @@
         "pages": "60--76",
         "doi": "10.1016/j.camwa.2023.01.032",
         "url": "https://doi.org/10.1016%2Fj.camwa.2023.01.032",
-        "arxiv": "2206.03626"
+        "arxiv": "2206.03626",
+        "image": "/assets/images/publications/10.1016_j.camwa.2023.01.032.png"
     },
     {
         "id": "10.1007_s11831-023-09913-0",
@@ -321,7 +341,8 @@
         "pages": "3617-3656",
         "doi": "10.1007/s11831-023-09913-0",
         "url": "https://doi.org/10.1007/s11831-023-09913-0",
-        "arxiv": "2208.08538"
+        "arxiv": "2208.08538",
+        "image": "/assets/images/publications/10.1007_s11831-023-09913-0.png"
     },
     {
         "id": "10.1016_j.matcom.2023.05.018",
@@ -333,7 +354,8 @@
         "pages": "18-39",
         "doi": "10.1016/j.matcom.2023.05.018",
         "url": "https://doi.org/10.1016/j.matcom.2023.05.018",
-        "arxiv": "2111.11788"
+        "arxiv": "2111.11788",
+        "image": "/assets/images/publications/10.1016_j.matcom.2023.05.018.png"
     },
     {
         "id": "10.1007_s10915-022-01913-9",
@@ -357,7 +379,8 @@
         "pages": "114232",
         "doi": "10.1016/j.cma.2021.114232",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.114232",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cma.2021.114232.png"
     },
     {
         "id": "10.1016_j.jcp.2022.111162",
@@ -369,7 +392,8 @@
         "pages": "111162",
         "doi": "10.1016/j.jcp.2022.111162",
         "url": "https://doi.org/10.1016%2Fj.jcp.2022.111162",
-        "arxiv": "2110.01378"
+        "arxiv": "2110.01378",
+        "image": "/assets/images/publications/10.1016_j.jcp.2022.111162.png"
     },
     {
         "id": "10.1016_j.cpc.2022.108341",
@@ -381,7 +405,8 @@
         "pages": "108341",
         "doi": "10.1016/j.cpc.2022.108341",
         "url": "https://doi.org/10.1016%2Fj.cpc.2022.108341",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cpc.2022.108341.png"
     },
     {
         "id": "10.1016_j.camwa.2022.09.027",
@@ -393,7 +418,8 @@
         "pages": "105--126",
         "doi": "10.1016/j.camwa.2022.09.027",
         "url": "https://doi.org/10.1016%2Fj.camwa.2022.09.027",
-        "arxiv": "2201.06632"
+        "arxiv": "2201.06632",
+        "image": "/assets/images/publications/10.1016_j.camwa.2022.09.027.png"
     },
     {
         "id": "10.1615_int.j.uncertaintyquantification.2021032984",
@@ -417,7 +443,8 @@
         "pages": "C203-C234",
         "doi": "10.1137/20M1344512",
         "url": "https://doi.org/10.1137/20M1344512",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1137_20m1344512.png"
     },
     {
         "id": "10.1016_j.cma.2021.113769",
@@ -429,7 +456,8 @@
         "pages": "113769",
         "doi": "10.1016/j.cma.2021.113769",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.113769",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cma.2021.113769.png"
     },
     {
         "id": "10.1016_j.cma.2021.114093",
@@ -441,7 +469,8 @@
         "pages": "114093",
         "doi": "10.1016/j.cma.2021.114093",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.114093",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cma.2021.114093.png"
     },
     {
         "id": "10.21105_joss.02520",
@@ -465,7 +494,8 @@
         "pages": "107059",
         "doi": "10.1016/j.cpc.2019.107059",
         "url": "https://doi.org/10.1016%2Fj.cpc.2019.107059",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cpc.2019.107059.png"
     },
     {
         "id": "10.1016_j.jcp.2020.109522",
@@ -477,7 +507,8 @@
         "pages": "109522",
         "doi": "10.1016/j.jcp.2020.109522",
         "url": "https://doi.org/10.1016%2Fj.jcp.2020.109522",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.jcp.2020.109522.png"
     },
     {
         "id": "10.1016_j.cma.2020.113267",
@@ -489,7 +520,8 @@
         "pages": "113267",
         "doi": "10.1016/j.cma.2020.113267",
         "url": "https://doi.org/10.1016%2Fj.cma.2020.113267",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.cma.2020.113267.png"
     },
     {
         "id": "10.1016_j.finel.2019.103343",
@@ -501,7 +533,8 @@
         "pages": "103343",
         "doi": "10.1016/j.finel.2019.103343",
         "url": "https://doi.org/10.1016%2Fj.finel.2019.103343",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1016_j.finel.2019.103343.png"
     },
     {
         "id": "10.1137_20m1328786",
@@ -513,7 +546,8 @@
         "pages": "C436-C468",
         "doi": "10.1137/20M1328786",
         "url": "https://doi.org/10.1137/20M1328786",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1137_20m1328786.png"
     },
     {
         "id": "10.1016_j.aml.2018.07.033",
