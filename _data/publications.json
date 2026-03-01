@@ -289,7 +289,7 @@
     },
     {
         "id": "10.1142_s0218202523500148",
-        "title": "Bound-preserving finite element approximations of the Keller–Segel equations",
+        "title": "Bound-preserving finite element approximations of the Keller-Segel equations",
         "authors": "Santiago Badia, Jesús Bonilla, Juan Vicente Gutiérrez-Santacreu",
         "year": "2023",
         "journal": "Mathematical Models and Methods in Applied Sciences",
@@ -373,7 +373,7 @@
     },
     {
         "id": "10.1016_j.cpc.2022.108341",
-        "title": "The software design of Gridap: A Finite Element package based on the Julia JIT",
+        "title": "The software design of Gridap: A Finite Element package based on the Julia JIT compiler",
         "authors": "Francesc Verdugo, Santiago Badia",
         "year": "2022",
         "journal": "Computer Physics Communications",
@@ -397,7 +397,7 @@
     },
     {
         "id": "10.1615_int.j.uncertaintyquantification.2021032984",
-        "title": "EMBEDDED",
+        "title": "EMBEDDED MULTILEVEL MONTE CARLO FOR UNCERTAINTY QUANTIFICATION IN RANDOM DOMAINS",
         "authors": "Santiago Badia, Jerrad Hampton, Javier Principe",
         "year": "2021",
         "journal": "International Journal for Uncertainty Quantification",
@@ -444,18 +444,6 @@
         "arxiv": ""
     },
     {
-        "title": "EMBEDDED MULTILEVEL MONTE CARLO FOR UNCERTAINTY QUANTIFICATION IN RANDOM DOMAINS",
-        "authors": "Santiago Badia, Jerrad Hampton, Javier Principe",
-        "year": "2021",
-        "journal": "International Journal for Uncertainty Quantification",
-        "volume": "11",
-        "pages": "119-142",
-        "doi": "10.1615/Int.J.UncertaintyQuantification.2021032984",
-        "url": "https://doi.org/10.1615/Int.J.UncertaintyQuantification.2021032984",
-        "id": "10.1615_Int.J.UncertaintyQuantification.2021032984",
-        "arxiv": ""
-    },
-    {
         "id": "10.21105_joss.02520",
         "title": "Gridap: An extensible Finite Element toolbox in Julia",
         "authors": "Santiago Badia, Francesc Verdugo",
@@ -469,7 +457,7 @@
     },
     {
         "id": "10.1016_j.cpc.2019.107059",
-        "title": "A tutorial-driven introduction to the parallel finite element library FEMPAR",
+        "title": "A tutorial-driven introduction to the parallel finite element library FEMPAR v1.0.0",
         "authors": "Santiago Badia, Alberto F. Mart'i",
         "year": "2020",
         "journal": "Computer Physics Communications",
@@ -565,7 +553,7 @@
     },
     {
         "id": "10.1016_j.cma.2019.05.042",
-        "title": "Maximum-principle preserving space-",
+        "title": "Maximum-principle preserving space-time isogeometric analysis",
         "authors": "Jes'u",
         "year": "2019",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -697,7 +685,7 @@
     },
     {
         "id": "10.1007_s11831-017-9244-1",
-        "title": "FEMPAR",
+        "title": "FEMPAR: An Object-Oriented Parallel Finite Element Framework",
         "authors": "Santiago Badia, Alberto F. Mart'i",
         "year": "2017",
         "journal": "Archives of Computational Methods in Engineering",
@@ -733,7 +721,7 @@
     },
     {
         "id": "10.1016_j.cma.2016.09.040",
-        "title": "Segregated Runge-",
+        "title": "Segregated Runge-Kutta time integration of convection-stabilized mixed finite element schemes for wall-unresolved LES of incompressible flows",
         "authors": "Oriol Colom'e",
         "year": "2017",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -757,7 +745,7 @@
     },
     {
         "id": "10.1007_s10915-016-0304-8",
-        "title": "Convergence to Suitable Weak Solutions for a Finite Element Approximation of the Navier-",
+        "title": "Convergence to Suitable Weak Solutions for a Finite Element Approximation of the Navier-Stokes Equations with Numerical Subgrid Scale Modeling",
         "authors": "Santiago Badia, Juan Vicente Guti'e",
         "year": "2016",
         "journal": "Journal of Scientific Computing",
@@ -781,7 +769,7 @@
     },
     {
         "id": "10.1016_j.cma.2016.06.017",
-        "title": "Shock capturing techniques for $less$mml:math xmlns:mml=http://www.w3.org/1998/Math/MathML",
+        "title": "Shock capturing techniques for lessmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si64.gif\" display=\"inline\" overflow=\"scroll\"greaterlessmml:migreaterhless/mml:migreaterlessmml:migreaterpless/mml:migreaterless/mml:mathgreater-adaptive finite elements",
         "authors": "Alba Hierro, Santiago Badia, Pavel Kus",
         "year": "2016",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -841,7 +829,7 @@
     },
     {
         "id": "10.1016_j.fusengdes.2014.04.049",
-        "title": "An approach to verification and validation of MHD",
+        "title": "An approach to verification and validation of MHD codes for fusion applications",
         "authors": "S. Smolentsev, S. Badia, R. Bhattacharyay, L. Bühler, L. Chen, Q. Huang, H.-G. Jin, D. Krasnov, D.-W. Lee, E. Mas de les Valls, C. Mistrangelo, R. Munipalli, M.-J. Ni, D. Pashkevich, A. Patel, G. Pulugundla, P. Satyamurthy, A. Snegirev, V. Sviridov, P. Swain, T. Zhou, O. Zikanov",
         "year": "2015",
         "journal": "Fusion Engineering and Design",
@@ -949,7 +937,7 @@
     },
     {
         "id": "10.1016_j.jcp.2014.06.028",
-        "title": "Block recursive LU",
+        "title": "Block recursive LU preconditioners for the thermally coupled incompressible inductionless MHD problem",
         "authors": "Santiago Badia, Alberto F. Mart'i",
         "year": "2014",
         "journal": "Journal of Computational Physics",
@@ -1081,7 +1069,7 @@
     },
     {
         "id": "10.1016_j.cma.2012.07.020",
-        "title": "On stabilized finite element methods based on the Scott-",
+        "title": "On stabilized finite element methods based on the Scott-Zhang projector. Circumventing the inf-sup condition for the Stokes problem",
         "authors": "Santiago Badia",
         "year": "2012",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -1105,7 +1093,7 @@
     },
     {
         "id": "10.1016_j.amc.2011.09.058",
-        "title": "A combined nodal continuous-",
+        "title": "A combined nodal continuous-discontinuous finite element formulation for the Maxwell problem",
         "authors": "Santiago Badia, Ramon Codina",
         "year": "2011",
         "journal": "Applied Mathematics and Computation",
@@ -1117,7 +1105,7 @@
     },
     {
         "id": "10.1016_j.jcp.2010.12.046",
-        "title": "Approximation of the inductionless MHD",
+        "title": "Approximation of the inductionless MHD problem using a stabilized finite element method",
         "authors": "Ramon Planas, Santiago Badia, Ramon Codina",
         "year": "2011",
         "journal": "Journal of Computational Physics",
@@ -1153,7 +1141,7 @@
     },
     {
         "id": "10.1137_090766681",
-        "title": "Long-Term Stability Estimates and Existence of a Global Attractor in a Finite Element Approximation of the Navier-",
+        "title": "Long-Term Stability Estimates and Existence of a Global Attractor in a Finite Element Approximation of the Navier-Stokes Equations with Numerical Subgrid Scale Modeling",
         "authors": "Santiago Badia, Ramon Codina, Juan Vicente Guti'e",
         "year": "2010",
         "journal": "SIAM",
@@ -1177,7 +1165,7 @@
     },
     {
         "id": "10.1016_j.amc.2008.10.059",
-        "title": "On a multiscale approach to the transient Stokes problem: Dynamic subscales and anisotropic space-",
+        "title": "On a multiscale approach to the transient Stokes problem: Dynamic subscales and anisotropic space-time discretization",
         "authors": "Santiago Badia, Ramon Codina",
         "year": "2009",
         "journal": "Applied Mathematics and Computation",
@@ -1189,7 +1177,7 @@
     },
     {
         "id": "10.1016_j.cma.2009.04.004",
-        "title": "Robin-",
+        "title": "Robin-Robin preconditioned Krylov methods for fluid-structure interaction problems",
         "authors": "Santiago Badia, Fabio Nobile, Christian Vergara",
         "year": "2009",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -1213,7 +1201,7 @@
     },
     {
         "id": "10.1016_j.jcp.2009.07.019",
-        "title": "Coupling Biot and Navier-",
+        "title": "Coupling Biot and Navier-Stokes equations for modelling fluid-poroelastic media interaction",
         "authors": "Santiago Badia, Annalisa Quaini, Alfio Quarteroni",
         "year": "2009",
         "journal": "Journal of Computational Physics",
@@ -1237,7 +1225,7 @@
     },
     {
         "id": "10.1016_j.cma.2008.04.018",
-        "title": "Modular vs. non-modular preconditioners for fluid-",
+        "title": "Modular vs. non-modular preconditioners for fluid-structure systems with large added-mass effect",
         "authors": "Santiago Badia, Annalisa Quaini, Alfio Quarteroni",
         "year": "2008",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -1285,7 +1273,7 @@
     },
     {
         "id": "10.1016_j.jcp.2008.04.006",
-        "title": "Fluid-",
+        "title": "Fluid-structure partitioned procedures based on Robin transmission conditions",
         "authors": "Santiago Badia, Fabio Nobile, Christian Vergara",
         "year": "2008",
         "journal": "Journal of Computational Physics",
@@ -1297,7 +1285,7 @@
     },
     {
         "id": "10.1007_s00211-007-0099-5",
-        "title": "Convergence analysis of the FEM",
+        "title": "Convergence analysis of the FEM approximation of the first order projection method for incompressible flows with and without the inf-sup condition",
         "authors": "Santiago Badia, Ramon Codina",
         "year": "2007",
         "journal": "Numerische Mathematik",
@@ -1321,7 +1309,7 @@
     },
     {
         "id": "10.1016_j.cma.2007.05.020",
-        "title": "Concurrent AtC",
+        "title": "Concurrent AtC coupling based on a blend of the continuum stress and the atomistic force",
         "authors": "Jacob Fish, Mohan A. Nuggehally, Mark S. Shephard, Catalin R. Picu, Santiago Badia, Michael L. Parks, Max Gunzburger",
         "year": "2007",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -1333,7 +1321,7 @@
     },
     {
         "id": "10.1002_nme.1998",
-        "title": "On some fluid-",
+        "title": "On some fluid-structure iterative algorithms using pressure segregation methods. Application to aeroelasticity",
         "authors": "Santiago Badia, Ramon Codina",
         "year": "2007",
         "journal": "International Journal for Numerical Methods in Engineering",
@@ -1345,7 +1333,7 @@
     },
     {
         "id": "10.1615_intjmultcompeng.v5.i5.30",
-        "title": "A Force-Based Blending Model forAtomistic",
+        "title": "A Force-Based Blending Model for Atomistic-to-Continuum Coupling",
         "authors": "S. Badia, P. Bochev, R. Lehoucq, M. L. Parks, Jacob Fish, Mohan A. Nuggehally, M. Gunzburger",
         "year": "2007",
         "journal": "International Journal for Multiscale Computational Engineering",
@@ -1353,18 +1341,6 @@
         "pages": "387--406",
         "doi": "10.1615/intjmultcompeng.v5.i5.30",
         "url": "https://doi.org/10.1615%2Fintjmultcompeng.v5.i5.30",
-        "arxiv": ""
-    },
-    {
-        "title": "A Force-Based Blending Model forAtomistic-to-Continuum Coupling",
-        "authors": "S. Badia, P. Bochev, R. Lehoucq, M. L. Parks, Jacob Fish, Mohan A. Nuggehally, M. Gunzburger",
-        "year": "2007",
-        "journal": "International Journal for Multiscale Computational Engineering",
-        "volume": "5",
-        "pages": "387-406",
-        "doi": "10.1615/IntJMultCompEng.v5.i5.30",
-        "url": "https://doi.org/10.1615/IntJMultCompEng.v5.i5.30",
-        "id": "10.1615_IntJMultCompEng.v5.i5.30",
         "arxiv": ""
     },
     {
@@ -1381,7 +1357,7 @@
     },
     {
         "id": "10.1137_050643532",
-        "title": "Analysis of a Stabilized Finite Element Approximation of the Transient Convection-Diffusion Equation Using an ALE",
+        "title": "Analysis of a Stabilized Finite Element Approximation of the Transient Convection-Diffusion Equation Using an ALE Framework",
         "authors": "Santiago Badia, Ramon Codina",
         "year": "2006",
         "journal": "SIAM",
