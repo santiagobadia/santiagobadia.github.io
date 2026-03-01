@@ -41,7 +41,7 @@
     {
         "id": "2506.11956",
         "title": "Analysis of BDDC preconditioners for non-conforming polytopal hybrid discretisation methods",
-        "authors": "Santiago Badia, Jerome Droniou, Jordi Manyer, Jai Tushar",
+        "authors": "Santiago Badia, Jérôme Droniou, Jordi Manyer, Jai Tushar",
         "year": "2025",
         "journal": "arXiv",
         "volume": "",
@@ -168,7 +168,7 @@
     {
         "id": "2409.15863",
         "title": "A discrete trace theory for non-conforming polytopal hybrid discretisation methods",
-        "authors": "Santiago Badia, Jerome Droniou, Jai Tushar",
+        "authors": "Santiago Badia, Jérôme Droniou, Jai Tushar",
         "year": "2024",
         "journal": "Foundations of Computational Mathematics",
         "volume": "",
@@ -363,7 +363,7 @@
     {
         "id": "10.1007_s10915-022-01913-9",
         "title": "Conditioning of a Hybrid High-Order Scheme on Meshes with Small Faces",
-        "authors": "Santiago Badia, J'er^ome Droniou, Liam Yemm",
+        "authors": "Santiago Badia, Jérôme Droniou, Liam Yemm",
         "year": "2022",
         "journal": "Journal of Scientific Computing",
         "volume": "92",
