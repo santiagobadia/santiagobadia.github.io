@@ -275,7 +275,7 @@
     {
         "id": "10.1016_j.camwa.2024.04.016",
         "title": "A comparison of variational upwinding schemes for geophysical fluids, and their application to potential enstrophy conserving discretisations",
-        "authors": "David Lee, (**) Alberto F. Mart n, Christopher Bladwell, Santiago Badia",
+        "authors": "David Lee, Alberto F. Martín, Christopher Bladwell, Santiago Badia",
         "year": "2024",
         "journal": "Computers &amp; Mathematics with Applications",
         "volume": "165",
@@ -688,7 +688,7 @@
         "pages": "740--759",
         "doi": "10.1016/j.cam.2017.09.034",
         "url": "https://doi.org/10.1016%2Fj.cam.2017.09.034",
-        "arxiv": "1703.06323"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.cam.2018.07.001",
@@ -760,7 +760,7 @@
         "pages": "C194-C213",
         "doi": "10.1137/16M1074266",
         "url": "https://doi.org/10.1137/16M1074266",
-        "arxiv": "1701.03477"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.cma.2016.09.040",
@@ -796,7 +796,7 @@
         "pages": "386--413",
         "doi": "10.1007/s10915-016-0304-8",
         "url": "https://doi.org/10.1007%2Fs10915-016-0304-8",
-        "arxiv": "1606.04283"
+        "arxiv": ""
     },
     {
         "id": "10.1007_s00466-016-1332-9",
@@ -808,11 +808,11 @@
         "pages": "1051--1069",
         "doi": "10.1007/s00466-016-1332-9",
         "url": "https://doi.org/10.1007%2Fs00466-016-1332-9",
-        "arxiv": "1508.04935"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.cma.2016.06.017",
-        "title": "Shock capturing techniques for lessmml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si64.gif\" display=\"inline\" overflow=\"scroll\"greaterlessmml:migreaterhless/mml:migreaterlessmml:migreaterpless/mml:migreaterless/mml:mathgreater-adaptive finite elements",
+        "title": "Shock capturing techniques for $hp$-adaptive finite elements",
         "authors": "Alba Hierro, Santiago Badia, Pavel Kus",
         "year": "2016",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -832,7 +832,7 @@
         "pages": "294--318",
         "doi": "10.1016/j.cma.2016.02.026",
         "url": "https://doi.org/10.1016%2Fj.cma.2016.02.026",
-        "arxiv": "1603.04614"
+        "arxiv": ""
     },
     {
         "id": "10.1137_15m1045648",
@@ -844,7 +844,7 @@
         "pages": "3436-3464",
         "doi": "10.1137/15M1045648",
         "url": "https://doi.org/10.1137/15M1045648",
-        "arxiv": "1505.01344"
+        "arxiv": ""
     },
     {
         "id": "10.1137_15m1013511",
@@ -856,7 +856,7 @@
         "pages": "C22-C52",
         "doi": "10.1137/15M1013511",
         "url": "https://doi.org/10.1137/15M1013511",
-        "arxiv": "1501.01143"
+        "arxiv": ""
     },
     {
         "id": "10.1002_nme.4987",
@@ -868,7 +868,7 @@
         "pages": "372--400",
         "doi": "10.1002/nme.4987",
         "url": "https://doi.org/10.1002%2Fnme.4987",
-        "arxiv": "1409.3014"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.fusengdes.2014.04.049",
@@ -880,7 +880,7 @@
         "pages": "65--72",
         "doi": "10.1016/j.fusengdes.2014.04.049",
         "url": "https://doi.org/10.1016%2Fj.fusengdes.2014.04.049",
-        "arxiv": "1404.1221"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.parco.2015.09.004",
@@ -892,7 +892,7 @@
         "pages": "1--24",
         "doi": "10.1016/j.parco.2015.09.004",
         "url": "https://doi.org/10.1016%2Fj.parco.2015.09.004",
-        "arxiv": "1409.3015"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.cma.2015.07.016",
@@ -904,7 +904,7 @@
         "pages": "295--326",
         "doi": "10.1016/j.cma.2015.07.016",
         "url": "https://doi.org/10.1016%2Fj.cma.2015.07.016",
-        "arxiv": "1401.4036"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.cma.2014.10.041",
@@ -916,7 +916,7 @@
         "pages": "32--63",
         "doi": "10.1016/j.cma.2014.10.041",
         "url": "https://doi.org/10.1016%2Fj.cma.2014.10.041",
-        "arxiv": "1310.4343"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.cma.2014.12.006",
@@ -928,7 +928,7 @@
         "pages": "107--122",
         "doi": "10.1016/j.cma.2014.12.006",
         "url": "https://doi.org/10.1016%2Fj.cma.2014.12.006",
-        "arxiv": "1401.4035"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.cma.2014.03.015",
@@ -940,7 +940,7 @@
         "pages": "122--148",
         "doi": "10.1016/j.cma.2014.03.015",
         "url": "https://doi.org/10.1016%2Fj.cma.2014.03.015",
-        "arxiv": "1303.2811"
+        "arxiv": ""
     },
     {
         "id": "10.1007_s11831-014-9129-5",
@@ -952,7 +952,7 @@
         "pages": "621--636",
         "doi": "10.1007/s11831-014-9129-5",
         "url": "https://doi.org/10.1007%2Fs11831-014-9129-5",
-        "arxiv": "1303.2812"
+        "arxiv": ""
     },
     {
         "id": "10.1137_130918708",
@@ -964,7 +964,7 @@
         "pages": "1729--1752",
         "doi": "10.1137/130918708",
         "url": "https://doi.org/10.1137%2F130918708",
-        "arxiv": "1301.1841"
+        "arxiv": ""
     },
     {
         "id": "10.1137_130931989",
@@ -976,7 +976,7 @@
         "pages": "C190--C218",
         "doi": "10.1137/130931989",
         "url": "https://doi.org/10.1137%2F130931989",
-        "arxiv": "1303.2813"
+        "arxiv": ""
     },
     {
         "id": "10.1016_j.jcp.2014.06.028",
@@ -988,7 +988,7 @@
         "pages": "562--591",
         "doi": "10.1016/j.jcp.2014.06.028",
         "url": "https://doi.org/10.1016%2Fj.jcp.2014.06.028",
-        "arxiv": "1301.1843"
+        "arxiv": ""
     },
     {
         "id": "10.1137_130927206",
@@ -1000,7 +1000,7 @@
         "pages": "A2673--A2697",
         "doi": "10.1137/130927206",
         "url": "https://doi.org/10.1137%2F130927206",
-        "arxiv": "1301.1842"
+        "arxiv": ""
     },
     {
         "id": "10.1093_imanum_drt023",
@@ -1409,17 +1409,5 @@
         "doi": "10.1137/050643532",
         "url": "https://doi.org/10.1137%2F050643532",
         "arxiv": ""
-    },
-    {
-        "id": "1910.01412",
-        "title": "A user-guide to Gridap -- grid-based approximation of partial differential equations in Julia",
-        "authors": "Santiago Badia et al.",
-        "year": "2019",
-        "journal": "arXiv",
-        "volume": "",
-        "pages": "",
-        "doi": "",
-        "url": "https://arxiv.org/abs/1910.01412",
-        "arxiv": "1910.01412"
     }
 ]
