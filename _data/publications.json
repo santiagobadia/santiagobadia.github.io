@@ -353,7 +353,7 @@
     {
         "id": "10.1016_j.matcom.2023.05.018",
         "title": "A massively parallel implementation of multilevel Monte Carlo for finite element models",
-        "authors": "Santiago Badia, Jerrad Hampton, Javier Principe",
+        "authors": "Santiago Badia, Jerrad Hampton, Javier Príncipe",
         "year": "2023",
         "journal": "Mathematics and Computers in Simulation",
         "volume": "213",
@@ -431,7 +431,7 @@
     {
         "id": "10.1615_int.j.uncertaintyquantification.2021032984",
         "title": "EMBEDDED MULTILEVEL MONTE CARLO FOR UNCERTAINTY QUANTIFICATION IN RANDOM DOMAINS",
-        "authors": "Santiago Badia, Jerrad Hampton, Javier Principe",
+        "authors": "Santiago Badia, Jerrad Hampton, Javier Príncipe",
         "year": "2021",
         "journal": "International Journal for Uncertainty Quantification",
         "volume": "11",
@@ -470,7 +470,7 @@
     {
         "id": "10.1016_j.cma.2021.114093",
         "title": "A robust and scalable unfitted adaptive finite element framework for nonlinear solid mechanics",
-        "authors": "Santiago Badia, Manuel A. Caicedo, Alberto F. Martín, Javier Principe",
+        "authors": "Santiago Badia, Manuel A. Caicedo, Alberto F. Martín, Javier Príncipe",
         "year": "2021",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "386",
@@ -693,7 +693,7 @@
     {
         "id": "10.1016_j.cam.2018.07.001",
         "title": "Editorial: Algorithmic Aspects of High-Performance Computing for Mechanics and Physics",
-        "authors": "Victor Calo, Santiago Badia, Javier Principe",
+        "authors": "Victor Calo, Santiago Badia, Javier Príncipe",
         "year": "2018",
         "journal": "Journal of Computational and Applied Mathematics",
         "volume": "344",
@@ -705,7 +705,7 @@
     {
         "id": "10.1137_18m1185624",
         "title": "Mixed Aggregated Finite Element Methods for the Unfitted Discretization of the Stokes Problem",
-        "authors": "Santiago Badia, Alberto F. Martin, Francesc Verdugo",
+        "authors": "Santiago Badia, Alberto F. Martín, Francesc Verdugo",
         "year": "2018",
         "journal": "SIAM Journal on Scientific Computing",
         "volume": "40",
@@ -729,7 +729,7 @@
     {
         "id": "10.1007_s11831-017-9244-1",
         "title": "FEMPAR: An Object-Oriented Parallel Finite Element Framework",
-        "authors": "Santiago Badia, Alberto F. Martín, Javier Principe",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2017",
         "journal": "Archives of Computational Methods in Engineering",
         "volume": "25",
@@ -825,7 +825,7 @@
     {
         "id": "10.1016_j.cma.2016.02.026",
         "title": "Mixed finite element methods with convection stabilization for the large eddy simulation of incompressible turbulent flows",
-        "authors": "Oriol Colomés, Santiago Badia, Javier Principe",
+        "authors": "Oriol Colomés, Santiago Badia, Javier Príncipe",
         "year": "2016",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "304",
@@ -849,7 +849,7 @@
     {
         "id": "10.1137_15m1013511",
         "title": "Multilevel Balancing Domain Decomposition at Extreme Scales",
-        "authors": "Santiago Badia, Alberto F. Martín, Javier Principe",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2016",
         "journal": "SIAM Journal on Scientific Computing",
         "volume": "38",
@@ -885,7 +885,7 @@
     {
         "id": "10.1016_j.parco.2015.09.004",
         "title": "On the scalability of inexact balancing domain decomposition by constraints with overlapped coarse/fine corrections",
-        "authors": "Santiago Badia, Alberto F. Martín, Javier Principe",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2015",
         "journal": "Parallel Computing",
         "volume": "50",
@@ -909,7 +909,7 @@
     {
         "id": "10.1016_j.cma.2014.10.041",
         "title": "Assessment of variational multiscale models for the large eddy simulation of turbulent incompressible flows",
-        "authors": "Oriol Colomés, Santiago Badia, Ramon Codina, Javier Principe",
+        "authors": "Oriol Colomés, Santiago Badia, Ramon Codina, Javier Príncipe",
         "year": "2015",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "285",
@@ -969,7 +969,7 @@
     {
         "id": "10.1137_130931989",
         "title": "A Highly Scalable Parallel Implementation of Balancing Domain Decomposition by Constraints",
-        "authors": "Santiago Badia, Alberto F. Martín, Javier Principe",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2014",
         "journal": "SIAM",
         "volume": "36",
@@ -1053,7 +1053,7 @@
     {
         "id": "10.1007_s11831-013-9086-4",
         "title": "Implementation and Scalability Analysis of Balancing Domain Decomposition Methods",
-        "authors": "Santiago Badia, Alberto F. Martín, Javier Principe",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2013",
         "journal": "Archives of Computational Methods in Engineering",
         "volume": "20",
@@ -1341,7 +1341,7 @@
     {
         "id": "10.1016_j.cma.2007.01.002",
         "title": "Time dependent subscales in the stabilized finite element approximation of incompressible flow problems",
-        "authors": "Ramon Codina, Javier Principe, Oriol Guasch, Santiago Badia",
+        "authors": "Ramon Codina, Javier Príncipe, Oriol Guasch, Santiago Badia",
         "year": "2007",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "196",

@@ -41,6 +41,23 @@ layout: default
   {% if submitted_pubs.size > 0 %}
     <h2>Submitted</h2>
     <div class="publications-grid">
+      {% for pub in submitted_pubs %}
+      <div class="pub-row">
+        {% if pub.image %}
+        <div class="pub-thumb">
+          <div class="thumb-box">
+            <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+          </div>
+        </div>
+        {% endif %}
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="{{ pub.url | default: '#' }}">{{ pub.title }}</a>
+          </div>
+          <div class="pub-authors">{{ pub.authors }}</div>
+          <div class="pub-venue">
+            <em>{{ pub.journal }}</em>, {{ pub.year }}
+          </div>
           <div class="pub-links">
             {% if pub.doi and pub.doi != "" %}
               <a href="https://doi.org/{{ pub.doi }}">DOI</a>
@@ -67,13 +84,14 @@ layout: default
     <div class="publications-grid">
       {% for pub in year_group.items %}
       <div class="pub-row">
-              {% if pub.image %}
-              <div class="pub-thumb">
-                <div class="thumb-box">
-                  <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
-                </div>
-              </div>
-              {% endif %}        <div class="pub-content">
+        {% if pub.image %}
+        <div class="pub-thumb">
+          <div class="thumb-box">
+            <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+          </div>
+        </div>
+        {% endif %}
+        <div class="pub-content">
           <div class="pub-title">
             <a href="{{ pub.url | default: '#' }}">{{ pub.title }}</a>
           </div>
