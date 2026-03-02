@@ -9,4 +9,16 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  
+  <script>
+    (function() {
+      const theme = localStorage.getItem('theme');
+      if (theme === 'light') {
+        document.documentElement.classList.add('light-mode-active');
+        document.addEventListener('DOMContentLoaded', () => {
+          document.body.classList.add('light-mode');
+        });
+      }
+    })();
+  </script>
 </head>
