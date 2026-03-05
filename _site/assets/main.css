@@ -818,3 +818,114 @@ a:hover {
 }
 
 /*# sourceMappingURL=main.css.map */
+/* Dark mode as default */
+:root {
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+  --heading-color: #ffffff;
+  --link-color: #8ab4f8;
+  --secondary-text: #b0b0b0;
+  --border-color: #333333;
+  --card-bg: #1e1e1e;
+  --thumb-bg: #2d2d2d;
+  --divider-color: #2c2c2c;
+}
+
+/* Light mode class */
+body.light-mode {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --heading-color: #000000;
+  --link-color: #1a0dab;
+  --secondary-text: #666666;
+  --border-color: #eeeeee;
+  --card-bg: #ffffff;
+  --thumb-bg: #f8f8f8;
+  --divider-color: #eeeeee;
+}
+
+body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1, h2, h3 {
+  color: var(--heading-color) !important;
+}
+
+a {
+  color: var(--link-color) !important;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: none;
+  border: 1px solid var(--border-color);
+  color: var(--text-color);
+  padding: 5px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle:hover {
+  background-color: var(--card-bg);
+}
+
+.profile-pic {
+  border: 4px solid var(--card-bg) !important;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3) !important;
+}
+
+body.light-mode .profile-pic {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1) !important;
+  border-color: #fff !important;
+}
+
+.position {
+  color: var(--text-color) !important;
+  opacity: 0.9;
+}
+
+.institution {
+  color: var(--secondary-text) !important;
+}
+
+.section-divider {
+  border-top: 1px solid var(--divider-color) !important;
+}
+
+.publications-section h2 {
+  border-bottom: 2px solid var(--text-color) !important;
+}
+
+.thumb-box {
+  background: var(--thumb-bg) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+.pub-title a {
+  color: var(--heading-color) !important;
+}
+
+.pub-title a:hover {
+  color: var(--link-color) !important;
+}
+
+.pub-authors {
+  color: var(--text-color) !important;
+  opacity: 0.9;
+}
+
+.pub-venue {
+  color: var(--secondary-text) !important;
+}
+
+.pub-links a {
+  color: var(--link-color) !important;
+}

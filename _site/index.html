@@ -19,8 +19,24 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"Professor of Computational Mathematics at Monash University. Expert in finite element methods, large-scale parallel solvers, and open-source scientific software.","headline":"Santiago Badia - Personal Webpage","name":"Santiago Badia","url":"https://santiagobadia.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://santiagobadia.github.io/feed.xml" title="Santiago Badia" /><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <script>
+    (function() {
+      const theme = localStorage.getItem('theme');
+      if (theme === 'light') {
+        document.documentElement.classList.add('light-mode-active');
+        document.addEventListener('DOMContentLoaded', () => {
+          document.body.classList.add('light-mode');
+          const toggle = document.getElementById('theme-toggle');
+          if (toggle) toggle.textContent = 'Dark Mode';
+        });
+      }
+    })();
+  </script>
 </head>
 <body>
+
+<button class="theme-toggle" id="theme-toggle">Light Mode</button>
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -64,6 +80,34 @@
   
     <h2>Submitted</h2>
     <div class="publications-grid">
+      <div class="pub-row">
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="https://arxiv.org/abs/2603.00860">Geometric Multigrid solvers for Hybrid High-Order methods on polytopal meshes</a>
+          </div>
+          <div class="pub-authors">Jordi Manyer, Santiago Badia</div>
+          <div class="pub-venue">
+            <em>arXiv</em>, 2026
+          </div>
+          <div class="pub-links">
+              <a href="https://arxiv.org/abs/2603.00860">arXiv</a>
+          </div>
+        </div>
+      </div>
+      <div class="pub-row">
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="https://arxiv.org/abs/2603.00880">A natural language framework for non-conforming hybrid polytopal methods in Gridap.jl</a>
+          </div>
+          <div class="pub-authors">Jordi Manyer, Santiago Badia</div>
+          <div class="pub-venue">
+            <em>arXiv</em>, 2026
+          </div>
+          <div class="pub-links">
+              <a href="https://arxiv.org/abs/2603.00880">arXiv</a>
+          </div>
+        </div>
+      </div>
       
       <div class="pub-row">
         
@@ -208,7 +252,10 @@
             
             
             
-          </div>
+          
+               / 
+              <a href="https://arxiv.org/abs/2503.15994">arXiv</a>
+            </div>
         </div>
       </div>
       
@@ -234,7 +281,10 @@
             
             
             
-          </div>
+          
+               / 
+              <a href="https://arxiv.org/abs/2412.14460">arXiv</a>
+            </div>
         </div>
       </div>
       
@@ -276,7 +326,7 @@
         
         <div class="pub-thumb">
           <div class="thumb-box">
-            <img src="/assets/images/publications/10.1016_j.jcp.2025.114547.png" alt="Compatible finite element interpolated neural networks">
+            <img src="/assets/images/publications/10.1016_j.cma.2025.117889.png" alt="Compatible finite element interpolated neural networks">
           </div>
         </div>
         
@@ -410,7 +460,10 @@
             
             
             
-          </div>
+          
+               / 
+              <a href="https://arxiv.org/abs/2506.10533">arXiv</a>
+            </div>
         </div>
       </div>
       
@@ -436,7 +489,10 @@
             
             
             
-          </div>
+          
+               / 
+              <a href="https://arxiv.org/abs/2504.09748">arXiv</a>
+            </div>
         </div>
       </div>
       
@@ -1415,7 +1471,10 @@
             
             
             
-          </div>
+          
+               / 
+              <a href="https://arxiv.org/abs/1812.05442">arXiv</a>
+            </div>
         </div>
       </div>
       
@@ -2810,6 +2869,22 @@
       </div>
     </main>
 
-  </body>
+  
+<script>
+  const toggle = document.getElementById('theme-toggle');
+  const body = document.body;
+
+  toggle.addEventListener('click', () => {
+    body.classList.toggle('light-mode');
+    if (body.classList.contains('light-mode')) {
+      localStorage.setItem('theme', 'light');
+      toggle.textContent = 'Dark Mode';
+    } else {
+      localStorage.setItem('theme', 'dark');
+      toggle.textContent = 'Light Mode';
+    }
+  });
+</script>
+</body>
 
 </html>
