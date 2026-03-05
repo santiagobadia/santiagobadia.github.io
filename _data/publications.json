@@ -1,5 +1,31 @@
 [
     {
+        "id": "2603.00880",
+        "title": "A natural language framework for non-conforming hybrid polytopal methods in Gridap.jl",
+        "authors": "Jordi Manyer, Santiago Badia",
+        "year": "2026",
+        "journal": "arXiv",
+        "volume": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2603.00880",
+        "arxiv": "2603.00880",
+        "image": ""
+    },
+    {
+        "id": "2603.00860",
+        "title": "Geometric Multigrid solvers for Hybrid High-Order methods on polytopal meshes",
+        "authors": "Jordi Manyer, Santiago Badia",
+        "year": "2026",
+        "journal": "arXiv",
+        "volume": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2603.00860",
+        "arxiv": "2603.00860",
+        "image": ""
+    },
+    {
         "id": "10.1016_j.cma.2025.118610",
         "title": "Reduced basis solvers for unfitted methods on parameterized domains",
         "authors": "Nicholas Mueller, Santiago Badia, Yiran Zhao",
@@ -22,7 +48,7 @@
         "doi": "10.1016/j.cpc.2025.109985",
         "url": "https://doi.org/10.1016/j.cpc.2025.109985",
         "id": "10.1016_j.cpc.2025.109985",
-        "arxiv": "",
+        "arxiv": "2503.15994",
         "image": "/assets/images/publications/10.1016_j.cpc.2025.109985.png"
     },
     {
@@ -35,7 +61,7 @@
         "doi": "10.1016/j.cam.2025.116790",
         "url": "https://doi.org/10.1016/j.cam.2025.116790",
         "id": "10.1016_j.cam.2025.116790",
-        "arxiv": "",
+        "arxiv": "2412.14460",
         "image": "/assets/images/publications/10.1016_j.cam.2025.116790.png"
     },
     {
@@ -152,7 +178,7 @@
         "doi": "10.1016/j.cma.2025.118343",
         "url": "https://doi.org/10.1016/j.cma.2025.118343",
         "id": "10.1016_j.cma.2025.118343",
-        "arxiv": "",
+        "arxiv": "2506.10533",
         "image": "/assets/images/publications/10.1016_j.cma.2025.118343.png"
     },
     {
@@ -165,7 +191,7 @@
         "doi": "10.1016/j.cma.2025.118203",
         "url": "https://doi.org/10.1016/j.cma.2025.118203",
         "id": "10.1016_j.cma.2025.118203",
-        "arxiv": "",
+        "arxiv": "2504.09748",
         "image": "/assets/images/publications/10.1016_j.cma.2025.118203.png"
     },
     {
@@ -604,7 +630,7 @@
         "pages": "422--440",
         "doi": "10.1016/j.cma.2019.05.042",
         "url": "https://doi.org/10.1016%2Fj.cma.2019.05.042",
-        "arxiv": ""
+        "arxiv": "1812.05442"
     },
     {
         "id": "10.1016_j.advengsoft.2019.03.006",
