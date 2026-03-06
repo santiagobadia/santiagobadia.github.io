@@ -1,5 +1,31 @@
 [
     {
+        "id": "2603.00880",
+        "title": "A natural language framework for non-conforming hybrid polytopal methods in Gridap.jl",
+        "authors": "Jordi Manyer, Santiago Badia",
+        "year": "2026",
+        "journal": "arXiv",
+        "volume": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2603.00880",
+        "arxiv": "2603.00880",
+        "image": "/assets/images/publications/2603.00880.png"
+    },
+    {
+        "id": "2603.00860",
+        "title": "Geometric Multigrid solvers for Hybrid High-Order methods on polytopal meshes",
+        "authors": "Jordi Manyer, Santiago Badia",
+        "year": "2026",
+        "journal": "arXiv",
+        "volume": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2603.00860",
+        "arxiv": "2603.00860",
+        "image": "/assets/images/publications/2603.00860.png"
+    },
+    {
         "id": "10.1016_j.cma.2025.118610",
         "title": "Reduced basis solvers for unfitted methods on parameterized domains",
         "authors": "Nicholas Mueller, Santiago Badia, Yiran Zhao",
@@ -22,7 +48,7 @@
         "doi": "10.1016/j.cpc.2025.109985",
         "url": "https://doi.org/10.1016/j.cpc.2025.109985",
         "id": "10.1016_j.cpc.2025.109985",
-        "arxiv": "",
+        "arxiv": "2503.15994",
         "image": "/assets/images/publications/10.1016_j.cpc.2025.109985.png"
     },
     {
@@ -35,20 +61,34 @@
         "doi": "10.1016/j.cam.2025.116790",
         "url": "https://doi.org/10.1016/j.cam.2025.116790",
         "id": "10.1016_j.cam.2025.116790",
-        "arxiv": "",
+        "arxiv": "2412.14460",
         "image": "/assets/images/publications/10.1016_j.cam.2025.116790.png"
+    },
+    {
+        "id": "10.1016_j.jcp.2025.114547",
+        "title": "Unfitted finite element interpolated neural networks",
+        "authors": "Wei Li, Alberto F. Martín, Santiago Badia",
+        "year": "2026",
+        "journal": "Journal of Computational Physics",
+        "volume": "547",
+        "pages": "114547",
+        "doi": "10.1016/j.jcp.2025.114547",
+        "url": "https://doi.org/10.1016/j.jcp.2025.114547",
+        "arxiv": "2407.13314",
+        "image": "/assets/images/publications/10.1016_j.jcp.2025.114547.png"
     },
     {
         "id": "2506.11956",
         "title": "Analysis of BDDC preconditioners for non-conforming polytopal hybrid discretisation methods",
-        "authors": "Santiago Badia, Jerome Droniou, Jordi Manyer, Jai Tushar",
+        "authors": "Santiago Badia, Jérôme Droniou, Jordi Manyer, Jai Tushar",
         "year": "2025",
         "journal": "arXiv",
         "volume": "",
         "pages": "",
         "doi": "",
         "url": "https://arxiv.org/abs/2506.11956",
-        "arxiv": "2506.11956"
+        "arxiv": "2506.11956",
+        "image": "/assets/images/publications/2506.11956.png"
     },
     {
         "id": "2508.17705",
@@ -60,7 +100,8 @@
         "pages": "",
         "doi": "",
         "url": "https://arxiv.org/abs/2508.17705",
-        "arxiv": "2508.17705"
+        "arxiv": "2508.17705",
+        "image": "/assets/images/publications/2508.17705.png"
     },
     {
         "id": "2508.17687",
@@ -72,7 +113,8 @@
         "pages": "",
         "doi": "",
         "url": "https://arxiv.org/abs/2508.17687",
-        "arxiv": "2508.17687"
+        "arxiv": "2508.17687",
+        "image": "/assets/images/publications/2508.17687.png"
     },
     {
         "id": "10.1016_j.jcp.2025.113937",
@@ -88,7 +130,7 @@
         "image": "/assets/images/publications/10.1016_j.jcp.2025.113937.png"
     },
     {
-        "id": "10.1016_j.jcp.2025.114547",
+        "id": "10.1016_j.cma.2025.117889",
         "title": "Compatible finite element interpolated neural networks",
         "authors": "Santiago Badia, Wei Li, Alberto F. Martín",
         "year": "2025",
@@ -98,7 +140,7 @@
         "doi": "10.1016/j.cma.2025.117889",
         "url": "https://doi.org/10.1016/j.cma.2025.117889",
         "arxiv": "2411.04591",
-        "image": "/assets/images/publications/10.1016_j.jcp.2025.114547.png"
+        "image": "/assets/images/publications/10.1016_j.cma.2025.117889.png"
     },
     {
         "id": "10.1016_j.cpc.2024.109479",
@@ -123,7 +165,8 @@
         "pages": "",
         "doi": "10.1007/s00158-024-03927-3",
         "url": "https://doi.org/10.1007/s00158-024-03927-3",
-        "arxiv": "2405.10478"
+        "arxiv": "2405.10478",
+        "image": "/assets/images/publications/10.1007_s00158-024-03927-3_pdf.png"
     },
     {
         "id": "10.1002_nme.70004",
@@ -148,7 +191,7 @@
         "doi": "10.1016/j.cma.2025.118343",
         "url": "https://doi.org/10.1016/j.cma.2025.118343",
         "id": "10.1016_j.cma.2025.118343",
-        "arxiv": "",
+        "arxiv": "2506.10533",
         "image": "/assets/images/publications/10.1016_j.cma.2025.118343.png"
     },
     {
@@ -161,14 +204,14 @@
         "doi": "10.1016/j.cma.2025.118203",
         "url": "https://doi.org/10.1016/j.cma.2025.118203",
         "id": "10.1016_j.cma.2025.118203",
-        "arxiv": "",
+        "arxiv": "2504.09748",
         "image": "/assets/images/publications/10.1016_j.cma.2025.118203.png"
     },
     {
         "id": "2409.15863",
         "title": "A discrete trace theory for non-conforming polytopal hybrid discretisation methods",
-        "authors": "Santiago Badia, Jerome Droniou, Jai Tushar",
-        "year": "2024",
+        "authors": "Santiago Badia, Jérôme Droniou, Jai Tushar",
+        "year": "2025",
         "journal": "Foundations of Computational Mathematics",
         "volume": "",
         "pages": "",
@@ -291,7 +334,8 @@
         "doi": "10.21105/joss.07162",
         "url": "https://doi.org/10.21105/joss.07162",
         "id": "10.21105_joss.07162",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.21105_joss.07162_pdf.png"
     },
     {
         "title": "Accuracy and scalability of incompressible inductionless MHD codes applied to fusion technologies",
@@ -303,7 +347,8 @@
         "doi": "10.1088/1361-6587/ad6a82",
         "url": "https://doi.org/10.1088/1361-6587/ad6a82",
         "id": "10.1088_1361-6587_ad6a82",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.1088_1361-6587_ad6a82_pdf.png"
     },
     {
         "id": "10.1142_s0218202523500148",
@@ -334,7 +379,7 @@
     {
         "id": "10.1007_s11831-023-09913-0",
         "title": "Stability and Conditioning of Immersed Finite Element Methods: Analysis and Remedies",
-        "authors": "Frits de Prenter, Clemens V. Verhoosel, E. Harald van Brummelen, Mats G. Larson, Santiago Badia",
+        "authors": "Frits de Prenter, Clemens Verhoosel, Harald van Brummelen, Mats Larson, Santiago Badia",
         "year": "2023",
         "journal": "Archives of Computational Methods in Engineering",
         "volume": "30",
@@ -347,7 +392,7 @@
     {
         "id": "10.1016_j.matcom.2023.05.018",
         "title": "A massively parallel implementation of multilevel Monte Carlo for finite element models",
-        "authors": "Santiago Badia, Jerrad Hampton, Javier Principe",
+        "authors": "Santiago Badia, Jerrad Hampton, Javier Príncipe",
         "year": "2023",
         "journal": "Mathematics and Computers in Simulation",
         "volume": "213",
@@ -360,14 +405,15 @@
     {
         "id": "10.1007_s10915-022-01913-9",
         "title": "Conditioning of a Hybrid High-Order Scheme on Meshes with Small Faces",
-        "authors": "Santiago Badia, Jérémie",
+        "authors": "Santiago Badia, Jérôme Droniou, Liam Yemm",
         "year": "2022",
         "journal": "Journal of Scientific Computing",
         "volume": "92",
         "pages": "",
         "doi": "10.1007/s10915-022-01913-9",
         "url": "https://doi.org/10.1007%2Fs10915-022-01913-9",
-        "arxiv": "2109.09983"
+        "arxiv": "2109.09983",
+        "image": "/assets/images/publications/10.1007_s10915-022-01913-9.png"
     },
     {
         "id": "10.1016_j.cma.2021.114232",
@@ -379,7 +425,7 @@
         "pages": "114232",
         "doi": "10.1016/j.cma.2021.114232",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.114232",
-        "arxiv": "",
+        "arxiv": "2106.13728",
         "image": "/assets/images/publications/10.1016_j.cma.2021.114232.png"
     },
     {
@@ -405,7 +451,7 @@
         "pages": "108341",
         "doi": "10.1016/j.cpc.2022.108341",
         "url": "https://doi.org/10.1016%2Fj.cpc.2022.108341",
-        "arxiv": "",
+        "arxiv": "2109.12818",
         "image": "/assets/images/publications/10.1016_j.cpc.2022.108341.png"
     },
     {
@@ -424,14 +470,15 @@
     {
         "id": "10.1615_int.j.uncertaintyquantification.2021032984",
         "title": "EMBEDDED MULTILEVEL MONTE CARLO FOR UNCERTAINTY QUANTIFICATION IN RANDOM DOMAINS",
-        "authors": "Santiago Badia, Jerrad Hampton, Javier Principe",
+        "authors": "Santiago Badia, Jerrad Hampton, Javier Príncipe",
         "year": "2021",
         "journal": "International Journal for Uncertainty Quantification",
         "volume": "11",
         "pages": "119--142",
         "doi": "10.1615/int.j.uncertaintyquantification.2021032984",
         "url": "https://doi.org/10.1615%2Fint.j.uncertaintyquantification.2021032984",
-        "arxiv": ""
+        "arxiv": "1911.11965",
+        "image": "/assets/images/publications/10.1615_int.j.uncertaintyquantification.2021032984.png"
     },
     {
         "id": "10.1137_20m1344512",
@@ -443,7 +490,7 @@
         "pages": "C203-C234",
         "doi": "10.1137/20M1344512",
         "url": "https://doi.org/10.1137/20M1344512",
-        "arxiv": "",
+        "arxiv": "2006.05373",
         "image": "/assets/images/publications/10.1137_20m1344512.png"
     },
     {
@@ -456,20 +503,20 @@
         "pages": "113769",
         "doi": "10.1016/j.cma.2021.113769",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.113769",
-        "arxiv": "",
+        "arxiv": "2006.11042",
         "image": "/assets/images/publications/10.1016_j.cma.2021.113769.png"
     },
     {
         "id": "10.1016_j.cma.2021.114093",
         "title": "A robust and scalable unfitted adaptive finite element framework for nonlinear solid mechanics",
-        "authors": "Santiago Badia, Manuel A. Caicedo, Alberto F. Martín",
+        "authors": "Santiago Badia, Manuel A. Caicedo, Alberto F. Martín, Javier Príncipe",
         "year": "2021",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "386",
         "pages": "114093",
         "doi": "10.1016/j.cma.2021.114093",
         "url": "https://doi.org/10.1016%2Fj.cma.2021.114093",
-        "arxiv": "",
+        "arxiv": "2012.00280",
         "image": "/assets/images/publications/10.1016_j.cma.2021.114093.png"
     },
     {
@@ -482,7 +529,8 @@
         "pages": "2520",
         "doi": "10.21105/joss.02520",
         "url": "https://doi.org/10.21105%2Fjoss.02520",
-        "arxiv": ""
+        "arxiv": "",
+        "image": "/assets/images/publications/10.21105_joss.02520.png"
     },
     {
         "id": "10.1016_j.cpc.2019.107059",
@@ -494,46 +542,46 @@
         "pages": "107059",
         "doi": "10.1016/j.cpc.2019.107059",
         "url": "https://doi.org/10.1016%2Fj.cpc.2019.107059",
-        "arxiv": "",
+        "arxiv": "1908.00891",
         "image": "/assets/images/publications/10.1016_j.cpc.2019.107059.png"
     },
     {
         "id": "10.1016_j.jcp.2020.109522",
         "title": "Monotonicity-preserving finite element schemes with adaptive mesh refinement for hyperbolic problems",
-        "authors": "Jesús",
+        "authors": "Jesús Bonilla, Santiago Badia",
         "year": "2020",
         "journal": "Journal of Computational Physics",
         "volume": "416",
         "pages": "109522",
         "doi": "10.1016/j.jcp.2020.109522",
         "url": "https://doi.org/10.1016%2Fj.jcp.2020.109522",
-        "arxiv": "",
+        "arxiv": "1912.11487",
         "image": "/assets/images/publications/10.1016_j.jcp.2020.109522.png"
     },
     {
         "id": "10.1016_j.cma.2020.113267",
         "title": "On differentiable local bounds preserving stabilization for Euler equations",
-        "authors": "Santiago Badia, Jesús",
+        "authors": "Santiago Badia, Jesús Bonilla, Sibusiso Mabuza, John N. Shadid",
         "year": "2020",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "370",
         "pages": "113267",
         "doi": "10.1016/j.cma.2020.113267",
         "url": "https://doi.org/10.1016%2Fj.cma.2020.113267",
-        "arxiv": "",
+        "arxiv": "1911.06792",
         "image": "/assets/images/publications/10.1016_j.cma.2020.113267.png"
     },
     {
         "id": "10.1016_j.finel.2019.103343",
         "title": "Numerical modelling of heat transfer and experimental validation in powder-bed fusion with the virtual domain approximation",
-        "authors": "Eric Neiva, Michele Chiumenti, Miguel Cervera, Emilio Salsi, Gabriele Piscopo, Santiago Badia, Alberto F. Martín",
+        "authors": "Eric Neiva, Michele Chiumenti, Miguel Cervera, Emilio Salsi, Gabriele Piscopo, Santiago Badia, Alberto F. Martín, Zhuoer Chen, Caroline Lee, Christopher Davies",
         "year": "2020",
         "journal": "Finite Elements in Analysis and Design",
         "volume": "168",
         "pages": "103343",
         "doi": "10.1016/j.finel.2019.103343",
         "url": "https://doi.org/10.1016%2Fj.finel.2019.103343",
-        "arxiv": "",
+        "arxiv": "1811.12372",
         "image": "/assets/images/publications/10.1016_j.finel.2019.103343.png"
     },
     {
@@ -546,20 +594,20 @@
         "pages": "C436-C468",
         "doi": "10.1137/20M1328786",
         "url": "https://doi.org/10.1137/20M1328786",
-        "arxiv": "",
+        "arxiv": "1907.03709",
         "image": "/assets/images/publications/10.1137_20m1328786.png"
     },
     {
         "id": "10.1016_j.aml.2018.07.033",
         "title": "Balancing domain decomposition by constraints associated with subobjects",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Hieu Nguyen",
         "year": "2019",
         "journal": "Applied Mathematics Letters",
         "volume": "87",
         "pages": "93--100",
         "doi": "10.1016/j.aml.2018.07.033",
         "url": "https://doi.org/10.1016%2Fj.aml.2018.07.033",
-        "arxiv": ""
+        "arxiv": "2001.07289"
     },
     {
         "id": "10.1016_j.cpc.2018.11.021",
@@ -571,31 +619,31 @@
         "pages": "154--167",
         "doi": "10.1016/j.cpc.2018.11.021",
         "url": "https://doi.org/10.1016%2Fj.cpc.2018.11.021",
-        "arxiv": ""
+        "arxiv": "1707.09783"
     },
     {
         "id": "10.1016_j.finel.2019.04.003",
         "title": "Scalable solvers for complex electromagnetics problems",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Marc Olm",
         "year": "2019",
         "journal": "Finite Elements in Analysis and Design",
         "volume": "161",
         "pages": "16--31",
         "doi": "10.1016/j.finel.2019.04.003",
         "url": "https://doi.org/10.1016%2Fj.finel.2019.04.003",
-        "arxiv": ""
+        "arxiv": "1901.08783"
     },
     {
         "id": "10.1016_j.cma.2019.05.042",
         "title": "Maximum-principle preserving space-time isogeometric analysis",
-        "authors": "Jesús",
+        "authors": "Jesús Bonilla, Santiago Badia",
         "year": "2019",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "354",
         "pages": "422--440",
         "doi": "10.1016/j.cma.2019.05.042",
         "url": "https://doi.org/10.1016%2Fj.cma.2019.05.042",
-        "arxiv": ""
+        "arxiv": "1812.05442"
     },
     {
         "id": "10.1016_j.advengsoft.2019.03.006",
@@ -607,31 +655,31 @@
         "pages": "74--91",
         "doi": "10.1016/j.advengsoft.2019.03.006",
         "url": "https://doi.org/10.1016%2Fj.advengsoft.2019.03.006",
-        "arxiv": ""
+        "arxiv": "1810.10314"
     },
     {
         "id": "10.1016_j.cma.2019.112583",
         "title": "Distributed-memory parallelization of the aggregated unfitted finite element method",
-        "authors": "Francesc Verdugo, Alberto F. Martín",
+        "authors": "Francesc Verdugo, Alberto F. Martín, Santiago Badia",
         "year": "2019",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "357",
         "pages": "112583",
         "doi": "10.1016/j.cma.2019.112583",
         "url": "https://doi.org/10.1016%2Fj.cma.2019.112583",
-        "arxiv": ""
+        "arxiv": "1902.01168"
     },
     {
         "id": "10.1002_nme.6085",
         "title": "A scalable parallel finite element framework for growing geometries. Application to metal additive manufacturing",
-        "authors": "Eric Neiva, Santiago Badia, Alberto F. Martín",
+        "authors": "Eric Neiva, Santiago Badia, Alberto F. Martín, Michele Chiumenti",
         "year": "2019",
         "journal": "International Journal for Numerical Methods in Engineering",
         "volume": "119",
         "pages": "1098--1125",
         "doi": "10.1002/nme.6085",
         "url": "https://doi.org/10.1002%2Fnme.6085",
-        "arxiv": ""
+        "arxiv": "1810.03506"
     },
     {
         "id": "10.1016_j.cma.2018.03.022",
@@ -643,7 +691,7 @@
         "pages": "533--553",
         "doi": "10.1016/j.cma.2018.03.022",
         "url": "https://doi.org/10.1016%2Fj.cma.2018.03.022",
-        "arxiv": ""
+        "arxiv": "1709.09122"
     },
     {
         "id": "10.1016_j.cam.2017.09.033",
@@ -655,12 +703,12 @@
         "pages": "794--806",
         "doi": "10.1016/j.cam.2017.09.033",
         "url": "https://doi.org/10.1016%2Fj.cam.2017.09.033",
-        "arxiv": ""
+        "arxiv": "1703.08466"
     },
     {
         "id": "10.1007_s10915-018-0870-z",
         "title": "Physics-Based Balancing Domain Decomposition by Constraints for Multi-Material Problems",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Hieu Nguyen",
         "year": "2018",
         "journal": "Journal of Scientific Computing",
         "volume": "79",
@@ -684,7 +732,7 @@
     {
         "id": "10.1016_j.cam.2018.07.001",
         "title": "Editorial: Algorithmic Aspects of High-Performance Computing for Mechanics and Physics",
-        "authors": "Victor Calo, Santiago Badia, Javier Principe",
+        "authors": "Victor Calo, Santiago Badia, Javier Príncipe",
         "year": "2018",
         "journal": "Journal of Computational and Applied Mathematics",
         "volume": "344",
@@ -696,14 +744,14 @@
     {
         "id": "10.1137_18m1185624",
         "title": "Mixed Aggregated Finite Element Methods for the Unfitted Discretization of the Stokes Problem",
-        "authors": "Santiago Badia, Alberto F. Martin, Francesc Verdugo",
+        "authors": "Santiago Badia, Alberto F. Martín, Francesc Verdugo",
         "year": "2018",
         "journal": "SIAM Journal on Scientific Computing",
         "volume": "40",
         "pages": "B1541-B1576",
         "doi": "10.1137/18M1185624",
         "url": "https://doi.org/10.1137/18M1185624",
-        "arxiv": ""
+        "arxiv": "1805.01727"
     },
     {
         "id": "10.1016_j.addma.2017.09.002",
@@ -720,26 +768,26 @@
     {
         "id": "10.1007_s11831-017-9244-1",
         "title": "FEMPAR: An Object-Oriented Parallel Finite Element Framework",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2017",
         "journal": "Archives of Computational Methods in Engineering",
         "volume": "25",
         "pages": "195--271",
         "doi": "10.1007/s11831-017-9244-1",
         "url": "https://doi.org/10.1007%2Fs11831-017-9244-1",
-        "arxiv": ""
+        "arxiv": "1708.01773"
     },
     {
         "id": "10.1016_j.cma.2016.09.035",
         "title": "Monotonicity-preserving finite element schemes based on differentiable nonlinear stabilization",
-        "authors": "Santiago Badia, Jesús",
+        "authors": "Santiago Badia, Jesús Bonilla",
         "year": "2017",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "313",
         "pages": "133--158",
         "doi": "10.1016/j.cma.2016.09.035",
         "url": "https://doi.org/10.1016%2Fj.cma.2016.09.035",
-        "arxiv": ""
+        "arxiv": "1606.08743"
     },
     {
         "id": "10.1137_16m1074266",
@@ -751,12 +799,12 @@
         "pages": "C194-C213",
         "doi": "10.1137/16M1074266",
         "url": "https://doi.org/10.1137/16M1074266",
-        "arxiv": ""
+        "arxiv": "1701.03477"
     },
     {
         "id": "10.1016_j.cma.2016.09.040",
         "title": "Segregated Runge-Kutta time integration of convection-stabilized mixed finite element schemes for wall-unresolved LES of incompressible flows",
-        "authors": "Oriol Colomés",
+        "authors": "Oriol Colomés, Santiago Badia",
         "year": "2017",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "313",
@@ -768,7 +816,7 @@
     {
         "id": "10.1016_j.cma.2017.03.032",
         "title": "Differentiable monotonicity-preserving schemes for discontinuous Galerkin methods on arbitrary meshes",
-        "authors": "Santiago Badia, Jesús",
+        "authors": "Santiago Badia, Jesús Bonilla, Alba Hierro",
         "year": "2017",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "320",
@@ -780,14 +828,14 @@
     {
         "id": "10.1007_s10915-016-0304-8",
         "title": "Convergence to Suitable Weak Solutions for a Finite Element Approximation of the Navier-Stokes Equations with Numerical Subgrid Scale Modeling",
-        "authors": "Santiago Badia, Juan Vicente Gutiérrez",
+        "authors": "Santiago Badia, Juan Vicente Gutiérrez-Santacreu",
         "year": "2016",
         "journal": "Journal of Scientific Computing",
         "volume": "71",
         "pages": "386--413",
         "doi": "10.1007/s10915-016-0304-8",
         "url": "https://doi.org/10.1007%2Fs10915-016-0304-8",
-        "arxiv": ""
+        "arxiv": "1606.04283"
     },
     {
         "id": "10.1007_s00466-016-1332-9",
@@ -803,7 +851,7 @@
     },
     {
         "id": "10.1016_j.cma.2016.06.017",
-        "title": "Shock capturing techniques for hp-adaptive finite elements",
+        "title": "Shock capturing techniques for $hp$-adaptive finite elements",
         "authors": "Alba Hierro, Santiago Badia, Pavel Kus",
         "year": "2016",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
@@ -816,7 +864,7 @@
     {
         "id": "10.1016_j.cma.2016.02.026",
         "title": "Mixed finite element methods with convection stabilization for the large eddy simulation of incompressible turbulent flows",
-        "authors": "Oriol Colomés",
+        "authors": "Oriol Colomés, Santiago Badia, Javier Príncipe",
         "year": "2016",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "304",
@@ -840,7 +888,7 @@
     {
         "id": "10.1137_15m1013511",
         "title": "Multilevel Balancing Domain Decomposition at Extreme Scales",
-        "authors": "Santiago Badia, Alberto F. Martín, Javier Principe",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2016",
         "journal": "SIAM Journal on Scientific Computing",
         "volume": "38",
@@ -852,7 +900,7 @@
     {
         "id": "10.1002_nme.4987",
         "title": "Segregated Runge-Kutta methods for the incompressible Navier-Stokes equations",
-        "authors": "Oriol Colomés",
+        "authors": "Oriol Colomés, Santiago Badia",
         "year": "2015",
         "journal": "International Journal for Numerical Methods in Engineering",
         "volume": "105",
@@ -876,7 +924,7 @@
     {
         "id": "10.1016_j.parco.2015.09.004",
         "title": "On the scalability of inexact balancing domain decomposition by constraints with overlapped coarse/fine corrections",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2015",
         "journal": "Parallel Computing",
         "volume": "50",
@@ -900,7 +948,7 @@
     {
         "id": "10.1016_j.cma.2014.10.041",
         "title": "Assessment of variational multiscale models for the large eddy simulation of turbulent incompressible flows",
-        "authors": "Oriol Colomés",
+        "authors": "Oriol Colomés, Santiago Badia, Ramon Codina, Javier Príncipe",
         "year": "2015",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "285",
@@ -960,7 +1008,7 @@
     {
         "id": "10.1137_130931989",
         "title": "A Highly Scalable Parallel Implementation of Balancing Domain Decomposition by Constraints",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2014",
         "journal": "SIAM",
         "volume": "36",
@@ -972,7 +1020,7 @@
     {
         "id": "10.1016_j.jcp.2014.06.028",
         "title": "Block recursive LU preconditioners for the thermally coupled incompressible inductionless MHD problem",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Ramon Planas",
         "year": "2014",
         "journal": "Journal of Computational Physics",
         "volume": "274",
@@ -996,7 +1044,7 @@
     {
         "id": "10.1093_imanum_drt023",
         "title": "Convergence towards weak solutions of the Navier-Stokes equations for a finite element approximation with numerical subgrid-scale modelling",
-        "authors": "S. Badia, J. V. Gutierrez-Santacreu",
+        "authors": "S. Badia, J. V. Gutiérrez-Santacreu",
         "year": "2013",
         "journal": "IMA",
         "volume": "34",
@@ -1020,7 +1068,7 @@
     {
         "id": "10.1002_nme.4541",
         "title": "Enhanced balancing Neumann-Neumann preconditioning in computational fluid and solid mechanics",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2013",
         "journal": "International Journal for Numerical Methods in Engineering",
         "volume": "96",
@@ -1044,7 +1092,7 @@
     {
         "id": "10.1007_s11831-013-9086-4",
         "title": "Implementation and Scalability Analysis of Balancing Domain Decomposition Methods",
-        "authors": "Santiago Badia, Alberto F. Martín",
+        "authors": "Santiago Badia, Alberto F. Martín, Javier Príncipe",
         "year": "2013",
         "journal": "Archives of Computational Methods in Engineering",
         "volume": "20",
@@ -1092,7 +1140,7 @@
     {
         "id": "10.1002_nme.4392",
         "title": "Unconditionally stable operator splitting algorithms for the incompressible magnetohydrodynamics system discretized by a stabilized finite element formulation based on projections",
-        "authors": "Santiago Badia, Ramon Planas, Juan Vicente Gutiérrez",
+        "authors": "Santiago Badia, Ramon Planas, Juan Vicente Gutiérrez-Santacreu",
         "year": "2012",
         "journal": "International Journal for Numerical Methods in Engineering",
         "volume": "93",
@@ -1152,7 +1200,7 @@
     {
         "id": "10.1007_s11831-011-9061-x",
         "title": "An Overview on Numerical Analyses of Nematic Liquid Crystal Flows",
-        "authors": "S. Badia, F. Guillén",
+        "authors": "S. Badia, F. Guillén-González, J. V. Gutiérrez-Santacreu",
         "year": "2011",
         "journal": "Archives of Computational Methods in Engineering",
         "volume": "18",
@@ -1164,7 +1212,7 @@
     {
         "id": "10.1016_j.jcp.2010.11.033",
         "title": "Finite element approximation of nematic liquid crystal flows using a saddle-point structure",
-        "authors": "Santiago Badia, Francisco Guillén",
+        "authors": "Santiago Badia, Francisco Guillén-González, Juan Vicente Gutiérrez-Santacreu",
         "year": "2011",
         "journal": "Journal of Computational Physics",
         "volume": "230",
@@ -1176,7 +1224,7 @@
     {
         "id": "10.1137_090766681",
         "title": "Long-Term Stability Estimates and Existence of a Global Attractor in a Finite Element Approximation of the Navier-Stokes Equations with Numerical Subgrid Scale Modeling",
-        "authors": "Santiago Badia, Ramon Codina, Juan Vicente Gutiérrez",
+        "authors": "Santiago Badia, Ramon Codina, Juan Vicente Gutiérrez-Santacreu",
         "year": "2010",
         "journal": "SIAM",
         "volume": "48",
@@ -1332,7 +1380,7 @@
     {
         "id": "10.1016_j.cma.2007.01.002",
         "title": "Time dependent subscales in the stabilized finite element approximation of incompressible flow problems",
-        "authors": "Ramon Codina, Javier Principe, Oriol Guasch, Santiago Badia",
+        "authors": "Ramon Codina, Javier Príncipe, Oriol Guasch, Santiago Badia",
         "year": "2007",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "196",
@@ -1367,7 +1415,7 @@
     },
     {
         "id": "10.1615_intjmultcompeng.v5.i5.30",
-        "title": "A Force-Based Blending Model for Atomistic-to-Continuum Coupling",
+        "title": "A Force-Based Blending Model forAtomistic-to-Continuum Coupling",
         "authors": "S. Badia, P. Bochev, R. Lehoucq, M. L. Parks, Jacob Fish, Mohan A. Nuggehally, M. Gunzburger",
         "year": "2007",
         "journal": "International Journal for Multiscale Computational Engineering",

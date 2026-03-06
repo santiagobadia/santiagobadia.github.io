@@ -65,6 +65,19 @@
         "image": "/assets/images/publications/10.1016_j.cam.2025.116790.png"
     },
     {
+        "id": "10.1016_j.jcp.2025.114547",
+        "title": "Unfitted finite element interpolated neural networks",
+        "authors": "Wei Li, Alberto F. Martín, Santiago Badia",
+        "year": "2026",
+        "journal": "Journal of Computational Physics",
+        "volume": "547",
+        "pages": "114547",
+        "doi": "10.1016/j.jcp.2025.114547",
+        "url": "https://doi.org/10.1016/j.jcp.2025.114547",
+        "arxiv": "2407.13314",
+        "image": "/assets/images/publications/10.1016_j.jcp.2025.114547.png"
+    },
+    {
         "id": "2506.11956",
         "title": "Analysis of BDDC preconditioners for non-conforming polytopal hybrid discretisation methods",
         "authors": "Santiago Badia, Jérôme Droniou, Jordi Manyer, Jai Tushar",
@@ -117,7 +130,7 @@
         "image": "/assets/images/publications/10.1016_j.jcp.2025.113937.png"
     },
     {
-        "id": "10.1016_j.jcp.2025.114547",
+        "id": "10.1016_j.cma.2025.117889",
         "title": "Compatible finite element interpolated neural networks",
         "authors": "Santiago Badia, Wei Li, Alberto F. Martín",
         "year": "2025",

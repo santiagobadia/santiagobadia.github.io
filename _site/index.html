@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Santiago Badia - Personal Webpage | Santiago Badia</title>
-<meta name="generator" content="Jekyll v4.4.1" />
+<meta name="generator" content="Jekyll v4.3.4" />
 <meta property="og:title" content="Santiago Badia - Personal Webpage" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Professor of Computational Mathematics at Monash University. Expert in finite element methods, large-scale parallel solvers, and open-source scientific software." />
@@ -19,7 +19,7 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"Professor of Computational Mathematics at Monash University. Expert in finite element methods, large-scale parallel solvers, and open-source scientific software.","headline":"Santiago Badia - Personal Webpage","name":"Santiago Badia","url":"https://santiagobadia.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://santiagobadia.github.io/feed.xml" title="Santiago Badia" /><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
-
+  
   <script>
     (function() {
       const theme = localStorage.getItem('theme');
@@ -27,8 +27,6 @@
         document.documentElement.classList.add('light-mode-active');
         document.addEventListener('DOMContentLoaded', () => {
           document.body.classList.add('light-mode');
-          const toggle = document.getElementById('theme-toggle');
-          if (toggle) toggle.textContent = 'Dark Mode';
         });
       }
     })();
@@ -36,11 +34,11 @@
 </head>
 <body>
 
-<button class="theme-toggle" id="theme-toggle">Light Mode</button>
-
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="profile-container">
+        <button class="theme-toggle" id="theme-toggle">Light Mode</button>
+
+<div class="profile-container">
   <div class="profile-header">
     <div class="profile-pic-container">
       <img src="/assets/images/profile.jpg" alt="Santiago Badia" class="profile-pic">
@@ -50,13 +48,12 @@
       <p class="position"><strong>Professor of Computational Mathematics</strong></p>
       <p class="institution">Monash University</p>
       <div class="bio">
-        <p>Santiago Badia is a Professor of Computational Mathematics at Monash University (Melbourne, Australia). Previously, he served as a Professor at UPC (Barcelona, 2009–2019) and as a researcher at Sandia National Labs (Albuquerque, 2007–2008) and Politecnico di Milano (2006).</p>
+        <p>I am Professor of Computational Mathematics at Monash University (Melbourne, Australia). Previously, I served as a Professor at UPC (Barcelona, 2009–2019) and as a researcher at Sandia National Labs (Albuquerque, 2007–2008) and Politecnico di Milano (2006).</p>
 
-<p>His research advances <strong>finite element methods</strong> in singularly perturbed regimes, indefinite systems, multiphysics, and multiscale problems. He has made notable contributions to stabilized and unfitted finite element methods, large-scale parallel domain decomposition solvers, and coupling techniques, authoring over 100 publications in these areas.</p>
+<p>My research is about the design and analysis of numerical discretisations of partial differential equations. I have designed and analysed <strong>finite element methods</strong> (in a broad sense) for singularly perturbed regimes, indefinite systems, multiphysics, and multiscale problems. I have also contributed to stabilized and unfitted finite element methods, large-scale parallel domain decomposition and multigrid solvers, and coupling techniques. More recently, I have been exploring the power of neural networks for the approximation of forward and inverse problems governed by PDEs. Overall, I have authored over 100 publications in these areas.</p>
 
-<p>He also leads open-source scientific software projects, including <a href="https://github.com/gridap/Gridap.jl">Gridap</a>.</p>
+<p>I have led several open-source scientific software projects, including the most recent <a href="https://github.com/gridap/Gridap.jl">Gridap</a> project.</p>
 
-<p>Prof. Badia has earned numerous prestigious awards, such as the <strong>2016 Agustin de Betancourt Award</strong> (Royal Academy of Engineering, Spain), the <strong>ICREA Academia Award</strong> (Catalonia), and the <strong>2012 Young Researcher Award in Applied Mathematics</strong> (Spain). He has led major research projects, including an <strong>ERC Starting Grant</strong>, two <strong>ERC Proof of Concept Grants</strong>, and two <strong>ARC Discovery Projects</strong>.</p>
 
       </div>
       <div class="social-links">
@@ -80,37 +77,57 @@
   
     <h2>Submitted</h2>
     <div class="publications-grid">
+      
       <div class="pub-row">
-        <div class="pub-thumb">
-          <div class="thumb-box">
-            <img src="/assets/images/publications/2603.00860.png" alt="Geometric Multigrid solvers for Hybrid High-Order methods on polytopal meshes">
-          </div>
-        </div>
-        <div class="pub-content">
-          </div>
-          <div class="pub-authors">Jordi Manyer, Santiago Badia</div>
-          <div class="pub-venue">
-            <em>arXiv</em>, 2026
-          </div>
-          <div class="pub-links">
-              <a href="https://arxiv.org/abs/2603.00860">arXiv</a>
-          </div>
-        </div>
-      </div>
-      <div class="pub-row">
+        
         <div class="pub-thumb">
           <div class="thumb-box">
             <img src="/assets/images/publications/2603.00880.png" alt="A natural language framework for non-conforming hybrid polytopal methods in Gridap.jl">
           </div>
         </div>
+        
         <div class="pub-content">
+          <div class="pub-title">
+            <a href="https://arxiv.org/abs/2603.00880">A natural language framework for non-conforming hybrid polytopal methods in Gridap.jl</a>
           </div>
           <div class="pub-authors">Jordi Manyer, Santiago Badia</div>
           <div class="pub-venue">
             <em>arXiv</em>, 2026
           </div>
           <div class="pub-links">
+            
+            
+              
               <a href="https://arxiv.org/abs/2603.00880">arXiv</a>
+            
+            
+          </div>
+        </div>
+      </div>
+      
+      <div class="pub-row">
+        
+        <div class="pub-thumb">
+          <div class="thumb-box">
+            <img src="/assets/images/publications/2603.00860.png" alt="Geometric Multigrid solvers for Hybrid High-Order methods on polytopal meshes">
+          </div>
+        </div>
+        
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="https://arxiv.org/abs/2603.00860">Geometric Multigrid solvers for Hybrid High-Order methods on polytopal meshes</a>
+          </div>
+          <div class="pub-authors">Jordi Manyer, Santiago Badia</div>
+          <div class="pub-venue">
+            <em>arXiv</em>, 2026
+          </div>
+          <div class="pub-links">
+            
+            
+              
+              <a href="https://arxiv.org/abs/2603.00860">arXiv</a>
+            
+            
           </div>
         </div>
       </div>
@@ -196,8 +213,6 @@
         </div>
       </div>
       
-      
-      
     </div>
   
 
@@ -206,27 +221,6 @@
   
     <h2>2026</h2>
     <div class="publications-grid">
-      <div class="pub-row">
-        <div class="pub-thumb">
-          <div class="thumb-box">
-            <img src="/assets/images/publications/10.1016_j.jcp.2025.114547.png" alt="Unfitted finite element interpolated neural networks">
-          </div>
-        </div>
-        <div class="pub-content">
-          <div class="pub-title">
-            <a href="https://doi.org/10.1016/j.jcp.2025.114547">Unfitted finite element interpolated neural networks</a>
-          </div>
-          <div class="pub-authors">Wei Li, Alberto F. Martín, Santiago Badia</div>
-          <div class="pub-venue">
-            <em>Journal of Computational Physics</em>, 2026
-          </div>
-          <div class="pub-links">
-              <a href="https://doi.org/10.1016/j.jcp.2025.114547">DOI</a>
-               / 
-              <a href="https://arxiv.org/abs/2407.13314">arXiv</a>
-          </div>
-        </div>
-      </div>
       
       <div class="pub-row">
         
@@ -278,11 +272,11 @@
               <a href="https://doi.org/10.1016/j.cpc.2025.109985">DOI</a>
             
             
-            
-          
                / 
               <a href="https://arxiv.org/abs/2503.15994">arXiv</a>
-            </div>
+            
+            
+          </div>
         </div>
       </div>
       
@@ -307,11 +301,40 @@
               <a href="https://doi.org/10.1016/j.cam.2025.116790">DOI</a>
             
             
-            
-          
                / 
               <a href="https://arxiv.org/abs/2412.14460">arXiv</a>
-            </div>
+            
+            
+          </div>
+        </div>
+      </div>
+      
+      <div class="pub-row">
+        
+        <div class="pub-thumb">
+          <div class="thumb-box">
+            <img src="/assets/images/publications/10.1016_j.jcp.2025.114547.png" alt="Unfitted finite element interpolated neural networks">
+          </div>
+        </div>
+        
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="https://doi.org/10.1016/j.jcp.2025.114547">Unfitted finite element interpolated neural networks</a>
+          </div>
+          <div class="pub-authors">Wei Li, Alberto F. Martín, Santiago Badia</div>
+          <div class="pub-venue">
+            <em>Journal of Computational Physics</em>, 2026
+          </div>
+          <div class="pub-links">
+            
+              <a href="https://doi.org/10.1016/j.jcp.2025.114547">DOI</a>
+            
+            
+               / 
+              <a href="https://arxiv.org/abs/2407.13314">arXiv</a>
+            
+            
+          </div>
         </div>
       </div>
       
@@ -486,11 +509,11 @@
               <a href="https://doi.org/10.1016/j.cma.2025.118343">DOI</a>
             
             
-            
-          
                / 
               <a href="https://arxiv.org/abs/2506.10533">arXiv</a>
-            </div>
+            
+            
+          </div>
         </div>
       </div>
       
@@ -515,18 +538,13 @@
               <a href="https://doi.org/10.1016/j.cma.2025.118203">DOI</a>
             
             
-            
-          
                / 
               <a href="https://arxiv.org/abs/2504.09748">arXiv</a>
-            </div>
+            
+            
+          </div>
         </div>
       </div>
-      
-    </div>
-  
-    <h2>2024</h2>
-    <div class="publications-grid">
       
       <div class="pub-row">
         
@@ -556,6 +574,11 @@
           </div>
         </div>
       </div>
+      
+    </div>
+  
+    <h2>2024</h2>
+    <div class="publications-grid">
       
       <div class="pub-row">
         
@@ -772,7 +795,7 @@
           <div class="pub-title">
             <a href="https://doi.org/10.1016/j.camwa.2024.04.016">A comparison of variational upwinding schemes for geophysical fluids, and their application to potential enstrophy conserving discretisations</a>
           </div>
-          <div class="pub-authors">David Lee, (**) Alberto F. Mart n, Christopher Bladwell, Santiago Badia</div>
+          <div class="pub-authors">David Lee, Alberto F. Martín, Christopher Bladwell, Santiago Badia</div>
           <div class="pub-venue">
             <em>Computers &amp; Mathematics with Applications</em>, 2024
           </div>
@@ -1259,6 +1282,7 @@
               <a href="https://doi.org/10.21105/joss.02520">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -1497,11 +1521,11 @@
               <a href="https://doi.org/10.1016/j.cma.2019.05.042">DOI</a>
             
             
-            
-          
                / 
               <a href="https://arxiv.org/abs/1812.05442">arXiv</a>
-            </div>
+            
+            
+          </div>
         </div>
       </div>
       
@@ -1660,6 +1684,7 @@
               <a href="https://doi.org/10.1016/j.cam.2017.09.034">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -1793,10 +1818,11 @@
               <a href="https://doi.org/10.1137/16M1074266">DOI</a>
             
             
-          
                / 
               <a href="https://arxiv.org/abs/1701.03477">arXiv</a>
-            </div>
+            
+            
+          </div>
         </div>
       </div>
       
@@ -1860,10 +1886,11 @@
               <a href="https://doi.org/10.1007/s10915-016-0304-8">DOI</a>
             
             
-          
                / 
               <a href="https://arxiv.org/abs/1606.04283">arXiv</a>
-            </div>
+            
+            
+          </div>
         </div>
       </div>
       
@@ -1880,6 +1907,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1007/s00466-016-1332-9">DOI</a>
+            
             
             
           </div>
@@ -1921,6 +1949,7 @@
               <a href="https://doi.org/10.1016/j.cma.2016.02.026">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -1940,6 +1969,7 @@
               <a href="https://doi.org/10.1137/15M1045648">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -1957,6 +1987,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1137/15M1013511">DOI</a>
+            
             
             
           </div>
@@ -1983,6 +2014,7 @@
               <a href="https://doi.org/10.1002/nme.4987">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2000,6 +2032,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.fusengdes.2014.04.049">DOI</a>
+            
             
             
           </div>
@@ -2021,6 +2054,7 @@
               <a href="https://doi.org/10.1016/j.parco.2015.09.004">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2038,6 +2072,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.cma.2015.07.016">DOI</a>
+            
             
             
           </div>
@@ -2059,6 +2094,7 @@
               <a href="https://doi.org/10.1016/j.cma.2014.10.041">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2076,6 +2112,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.cma.2014.12.006">DOI</a>
+            
             
             
           </div>
@@ -2102,6 +2139,7 @@
               <a href="https://doi.org/10.1016/j.cma.2014.03.015">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2119,6 +2157,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1007/s11831-014-9129-5">DOI</a>
+            
             
             
           </div>
@@ -2140,6 +2179,7 @@
               <a href="https://doi.org/10.1137/130918708">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2157,6 +2197,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1137/130931989">DOI</a>
+            
             
             
           </div>
@@ -2178,6 +2219,7 @@
               <a href="https://doi.org/10.1016/j.jcp.2014.06.028">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2195,6 +2237,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1137/130927206">DOI</a>
+            
             
             
           </div>
@@ -2221,6 +2264,7 @@
               <a href="https://doi.org/10.1093/imanum/drt023">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2238,6 +2282,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.cma.2013.05.004">DOI</a>
+            
             
             
           </div>
@@ -2299,6 +2344,7 @@
               <a href="https://doi.org/10.1007/s11831-013-9086-4">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2318,6 +2364,7 @@
               <a href="https://doi.org/10.1016/j.jcp.2012.09.031">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2335,6 +2382,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1093/imanum/drt022">DOI</a>
+            
             
             
           </div>
@@ -2361,6 +2409,7 @@
               <a href="https://doi.org/10.1016/j.apnum.2011.07.001">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2378,6 +2427,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1002/nme.4392">DOI</a>
+            
             
             
           </div>
@@ -2399,6 +2449,7 @@
               <a href="https://doi.org/10.1016/j.cma.2012.07.020">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2416,6 +2467,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1137/110835360">DOI</a>
+            
             
             
           </div>
@@ -2442,6 +2494,7 @@
               <a href="https://doi.org/10.1016/j.amc.2011.09.058">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2459,6 +2512,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.jcp.2010.12.046">DOI</a>
+            
             
             
           </div>
@@ -2480,6 +2534,7 @@
               <a href="https://doi.org/10.1007/s11831-011-9061-x">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2497,6 +2552,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.jcp.2010.11.033">DOI</a>
+            
             
             
           </div>
@@ -2523,6 +2579,7 @@
               <a href="https://doi.org/10.1137/090766681">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2540,6 +2597,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.cma.2010.01.015">DOI</a>
+            
             
             
           </div>
@@ -2566,6 +2624,7 @@
               <a href="https://doi.org/10.1016/j.amc.2008.10.059">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2583,6 +2642,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.cma.2009.04.004">DOI</a>
+            
             
             
           </div>
@@ -2604,6 +2664,7 @@
               <a href="https://doi.org/10.1137/08072632X">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2621,6 +2682,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.jcp.2009.07.019">DOI</a>
+            
             
             
           </div>
@@ -2647,6 +2709,7 @@
               <a href="https://doi.org/10.1007/s11831-008-9020-3">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2664,6 +2727,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.cma.2008.04.018">DOI</a>
+            
             
             
           </div>
@@ -2685,6 +2749,7 @@
               <a href="https://doi.org/10.1002/fld.1532">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2702,6 +2767,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1137/07069969X">DOI</a>
+            
             
             
           </div>
@@ -2723,6 +2789,7 @@
               <a href="https://doi.org/10.1137/070680497">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2740,6 +2807,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.jcp.2008.04.006">DOI</a>
+            
             
             
           </div>
@@ -2766,6 +2834,7 @@
               <a href="https://doi.org/10.1007/s00211-007-0099-5">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2783,6 +2852,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1016/j.cma.2007.01.002">DOI</a>
+            
             
             
           </div>
@@ -2804,6 +2874,7 @@
               <a href="https://doi.org/10.1016/j.cma.2007.05.020">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2823,6 +2894,7 @@
               <a href="https://doi.org/10.1002/nme.1998">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2840,6 +2912,7 @@
           <div class="pub-links">
             
               <a href="https://doi.org/10.1615/intjmultcompeng.v5.i5.30">DOI</a>
+            
             
             
           </div>
@@ -2866,6 +2939,7 @@
               <a href="https://doi.org/10.1016/j.cma.2004.06.048">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2885,6 +2959,7 @@
               <a href="https://doi.org/10.1137/050643532">DOI</a>
             
             
+            
           </div>
         </div>
       </div>
@@ -2893,13 +2968,17 @@
   
 
 </div>
-      </div>
-    </main>
 
-  
 <script>
   const toggle = document.getElementById('theme-toggle');
   const body = document.body;
+
+  // Set initial text
+  if (body.classList.contains('light-mode')) {
+    toggle.textContent = 'Dark Mode';
+  } else {
+    toggle.textContent = 'Light Mode';
+  }
 
   toggle.addEventListener('click', () => {
     body.classList.toggle('light-mode');
@@ -2912,6 +2991,10 @@
     }
   });
 </script>
-</body>
+
+      </div>
+    </main>
+
+  </body>
 
 </html>
