@@ -468,6 +468,19 @@
         "image": "/assets/images/publications/10.1016_j.camwa.2022.09.027.png"
     },
     {
+        "id": "10.21105_joss.04157",
+        "title": "GridapDistributed: a massively parallel finite element toolbox in Julia",
+        "authors": "Santiago Badia, Alberto F. Martín, Francesc Verdugo",
+        "year": "2022",
+        "journal": "Journal of Open Source Software",
+        "volume": "7",
+        "pages": "4157",
+        "doi": "10.21105/joss.04157",
+        "url": "https://doi.org/10.21105/joss.04157",
+        "arxiv": "",
+        "image": "/assets/images/publications/10.21105_joss.04157.png"
+    },
+    {
         "id": "10.1615_int.j.uncertaintyquantification.2021032984",
         "title": "EMBEDDED MULTILEVEL MONTE CARLO FOR UNCERTAINTY QUANTIFICATION IN RANDOM DOMAINS",
         "authors": "Santiago Badia, Jerrad Hampton, Javier Príncipe",
