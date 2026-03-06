@@ -30,11 +30,14 @@ layout: default
 <div class="publications-section">
   
   {% assign submitted_pubs = "" | split: "," %}
+  {% assign accepted_pubs = "" | split: "," %}
   {% assign published_pubs = "" | split: "," %}
   
   {% for pub in site.data.publications %}
-    {% if pub.journal == "arXiv" or pub.journal == "" %}
+    {% if pub.status == "submitted" %}
       {% assign submitted_pubs = submitted_pubs | push: pub %}
+    {% elsif pub.status == "accepted" %}
+      {% assign accepted_pubs = accepted_pubs | push: pub %}
     {% else %}
       {% assign published_pubs = published_pubs | push: pub %}
     {% endif %}
@@ -44,6 +47,45 @@ layout: default
     <h2>Submitted</h2>
     <div class="publications-grid">
       {% for pub in submitted_pubs %}
+      <div class="pub-row">
+        {% if pub.image %}
+        <div class="pub-thumb">
+          <div class="thumb-box">
+            <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+          </div>
+        </div>
+        {% endif %}
+        <div class="pub-content">
+          <div class="pub-title">
+            <a href="{{ pub.url | default: '#' }}">{{ pub.title }}</a>
+          </div>
+          <div class="pub-authors">{{ pub.authors }}</div>
+          <div class="pub-venue">
+            <em>{{ pub.journal }}</em>, {{ pub.year }}
+          </div>
+          <div class="pub-links">
+            {% if pub.doi and pub.doi != "" %}
+              <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+            {% endif %}
+            {% if pub.arxiv and pub.arxiv != "" %}
+              {% if pub.doi and pub.doi != "" %} / {% endif %}
+              <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>
+            {% endif %}
+            {% if pub.pdf and pub.pdf != "" %}
+              {% if pub.doi != "" or pub.arxiv != "" %} / {% endif %}
+              <a href="{{ pub.pdf | relative_url }}">PDF</a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if accepted_pubs.size > 0 %}
+    <h2>Accepted for publication</h2>
+    <div class="publications-grid">
+      {% for pub in accepted_pubs %}
       <div class="pub-row">
         {% if pub.image %}
         <div class="pub-thumb">
