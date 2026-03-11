@@ -93,7 +93,7 @@
         "pages": "114547",
         "doi": "10.1016/j.jcp.2025.114547",
         "url": "https://doi.org/10.1016/j.jcp.2025.114547",
-        "arxiv": "2407.13314",
+        "arxiv": "2501.17438",
         "image": "/assets/images/publications/10.1016_j.jcp.2025.114547.png",
         "status": "published"
     },
@@ -156,7 +156,7 @@
     {
         "id": "10.1016_j.cma.2025.117889",
         "title": "Compatible finite element interpolated neural networks",
-        "authors": "Wei Li, Alberto F. Martín, Santiago Badia",
+        "authors": "Santiago Badia, Wei Li, Alberto F. Martín",
         "year": "2025",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "439",
