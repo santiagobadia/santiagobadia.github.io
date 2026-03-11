@@ -1,5 +1,19 @@
 [
     {
+        "id": "2603.08992",
+        "title": "Four-field mixed finite elements for incompressible nonlinear elasticity",
+        "authors": "Santiago Badia, Wei Li, Ricardo Ruiz-Baier",
+        "year": "2026",
+        "journal": "arXiv",
+        "volume": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2603.08992",
+        "arxiv": "2603.08992",
+        "image": "/assets/images/publications/2603.08992.png",
+        "status": "submitted"
+    },
+    {
         "id": "2603.00880",
         "title": "A natural language framework for non-conforming hybrid polytopal methods in Gridap.jl",
         "authors": "Jordi Manyer, Jai Tushar, Santiago Badia",
