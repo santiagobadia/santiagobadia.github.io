@@ -30,7 +30,7 @@
     {
         "id": "2603.00860",
         "title": "Geometric Multigrid solvers for Hybrid High-Order methods on polytopal meshes",
-        "authors": "Jordi Manyer, Santiago Badia",
+        "authors": "Santiago Badia, Jordi Manyer",
         "year": "2026",
         "journal": "arXiv",
         "volume": "",
@@ -156,7 +156,7 @@
     {
         "id": "10.1016_j.cma.2025.117889",
         "title": "Compatible finite element interpolated neural networks",
-        "authors": "Santiago Badia, Wei Li, Alberto F. Martín",
+        "authors": "Wei Li, Alberto F. Martín, Santiago Badia",
         "year": "2025",
         "journal": "Computer Methods in Applied Mechanics and Engineering",
         "volume": "439",
