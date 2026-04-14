@@ -112,18 +112,18 @@
         "status": "published"
     },
     {
-        "id": "2506.11956",
-        "title": "Analysis of BDDC preconditioners for non-conforming polytopal hybrid discretisation methods",
+        "id": "10.1137_25m1768801",
+        "title": "Analysis of BDDC Preconditioners for Nonconforming Polytopal Hybrid Discretization Methods",
         "authors": "Santiago Badia, Jérôme Droniou, Jordi Manyer, Jai Tushar",
-        "year": "2025",
+        "year": "2026",
         "journal": "SIAM Journal on Numerical Analysis",
         "volume": "",
         "pages": "",
-        "doi": "",
-        "url": "https://arxiv.org/abs/2506.11956",
+        "doi": "10.1137/25M1768801",
+        "url": "https://doi.org/10.1137/25M1768801",
         "arxiv": "2506.11956",
-        "image": "/assets/images/publications/2506.11956.png",
-        "status": "accepted"
+        "image": "/assets/images/publications/10.1137_25m1768801.png",
+        "status": "published"
     },
     {
         "id": "2508.17705",
