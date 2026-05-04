@@ -1,5 +1,19 @@
 [
     {
+        "id": "2605.00308",
+        "title": "Adaptive anisotropic composite quadratures for residual minimisation in neural PDE approximations",
+        "authors": "Santiago Badia, Kishore Nori",
+        "year": "2026",
+        "journal": "arXiv",
+        "volume": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://arxiv.org/abs/2605.00308",
+        "arxiv": "2605.00308",
+        "image": "/assets/images/publications/2605.00308.png",
+        "status": "submitted"
+    },
+    {
         "id": "2603.26212",
         "title": "Divergence-free unfitted finite element discretisations for the Darcy problem",
         "authors": "Santiago Badia, Anne Boschman, Alberto F. Martín, Erik Nilsson, Ricardo Ruiz-Baier, Sara Zahedi",
