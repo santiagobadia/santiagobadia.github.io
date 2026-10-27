@@ -154,18 +154,18 @@
         "status": "submitted"
     },
     {
-        "id": "2508.17687",
+        "id": "10.1137_25m1791470",
         "title": "A convergence framework for energy minimisation of linear self-adjoint elliptic PDEs in nonlinear approximation spaces",
         "authors": "Alexandre Magueresse, Santiago Badia",
         "year": "2025",
         "journal": "SIAM Journal on Numerical Analysis",
         "volume": "",
         "pages": "",
-        "doi": "",
-        "url": "https://arxiv.org/abs/2508.17687",
+        "doi": "10.1137/25M1791470",
+        "url": "https://doi.org/10.1137/25M1791470",
         "arxiv": "2508.17687",
-        "image": "/assets/images/publications/2508.17687.png",
-        "status": "accepted"
+        "image": "/assets/images/publications/10.1137_25m1791470.png",
+        "status": "published"
     },
     {
         "id": "10.1016_j.jcp.2025.113937",
