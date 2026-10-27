@@ -3,6 +3,25 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Santiago Badia",
+    "jobTitle": "Professor of Computational Mathematics",
+    "affiliation": {"@type": "CollegeOrUniversity", "name": "Monash University"},
+    "url": "{{ site.url }}/",
+    "image": "{{ site.url }}/assets/images/profile.jpg",
+    "knowsAbout": ["Finite element methods", "Numerical analysis", "Partial differential equations", "Parallel solvers", "Scientific machine learning"],
+    "sameAs": [
+      "https://orcid.org/0000-0003-2391-4086",
+      "https://scholar.google.com/citations?user=mljtaIAAAAAJ",
+      "https://research.monash.edu/en/persons/santiago-badia/",
+      "https://github.com/santiagobadia",
+      "https://github.com/gridap/Gridap.jl"
+    ]
+  }
+  </script>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

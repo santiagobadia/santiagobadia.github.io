@@ -1,5 +1,7 @@
 ---
 layout: home
+description: Santiago Badia, Professor of Computational Mathematics at Monash University. Finite element methods, unfitted and mixed discretisations, parallel solvers, neural PDE approximation, and the open-source Gridap project.
+image: /assets/images/profile.jpg
 title: Professor of Computational Mathematics, Monash University
 ---
 
